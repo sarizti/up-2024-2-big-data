@@ -5,14 +5,14 @@ Mysql
 -----
 
 ```
-santi:Est@34.28.46.137/up_2024_2_big_data
+santi:Est@34.123.212.94/up_2024_2_big_data
 ```
 
 SSH
 ---
 
 ```
-santi@34.28.46.137
+santi@34.123.212.94
 ```
 
 keys: cp
