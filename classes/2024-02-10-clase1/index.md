@@ -126,3 +126,13 @@ quieran entre estas opciones: `python`, `c#`, `js`, `ts`, `php`. En esos lenguaj
 ayuda en sus tareas, en otros, bajo tu propio riesgo.
 - Puede llegar a haber un cambio inesperado en alguna fecha de clase, o ser en línea. Cuando sea el caso
 yo les aviso con tiempo.
+
+Tarea
+-----
+
+- Abrir cuenta en https://leetcode.com/ con su email de la UP.
+- Visitar [esta lista](https://leetcode.com/list?selectedList=p3lcx4c3).
+- Resolver el primer problema "Combine Two Tables".
+- Enviar evidencia via Moodle (captura de pantalla y código).
+- Explorar [otros retos de SQL](https://leetcode.com/tag/database/) en la plataforma
+y ver cuáles puedes resolver.
