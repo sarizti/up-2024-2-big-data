@@ -67,7 +67,7 @@ Calendario:
 - Programa de 16 clases.
 - Sábados de 8:00 am a 10:00 am.
 - Del 10 de febrero al 8 de junio.
-- Excepto: sábado 11 de mayo.
+- Excepto: sábado 11 de mayo, 30 de marzo (santa), 6 de abril (pascua)
 - Especial: viernes 24 de mayo de 5:00 pm a 7:00 pm.
 
 Syllabus
