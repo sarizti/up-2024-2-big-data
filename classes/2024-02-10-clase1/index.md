@@ -4,28 +4,28 @@ Clase 1
 Asistencia
 ----------
 
-|  # | ID      | Nombre                             | A.K.A | Nota    |
-|---:|---------|------------------------------------|-------|---------|
-|  1 | 0224604 | Barba Mendoza, Paulina             |       |         |
-|  2 | 0216980 | Díaz Rizo, Edgar Leonardo          |       |         | 
-|  3 | 0216229 | Gálvez Miranda, Uma Paola          |       |         | 
-|  4 | 0229386 | García González, Misael            |       |         |
-|  5 | 0228431 | García Raya, Daniela               |       |         |
-|  6 | 0224767 | González Polit, Jorge Andrés       |       |         | 
-|  7 | 0225509 | González Ramos, Natanael           |       |         | 
-|  8 | 0220279 | Leos Luna, Zabdy Elizabeth         |       |         |
-|  9 | 0225118 | Macias Lara, Hector                |       |         |
-| 10 | 0234847 | de la Cruz Orozco, Marcos Gerardo  |       |         |
-| 11 | 0225512 | Mendoza Guajardo, Daniel           |       |         |
-| 12 | 0224260 | Mercado Coello, Alejandro          |       |         | 
-| 13 | 0260523 | Núñez Favela, José Andrés          |       |         |
-| 14 | 0225511 | Ochoa Garciarce, Myriam            |       |         | 
-| 15 | 0218797 | Rodríguez Aquino, Schedar Emilio   |       |         | 
-| 16 | 0227412 | Sánchez Castillo, Santiago Mariano |       |         |
-| 17 | 0213663 | Solano Jaime, Eduardo              |       | Virtual |
-| 18 | 0224679 | Castiello Gonzalez, Rodrigo        |       |         |
-| 19 | 0224764 | Blanchet Ramírez, Bernardo         |       |         |
-| 20 | 0224758 | Gutiérrez Maisterrena, Diego       |       | Virtual | 
+|  # | ID      | Nombre                             | A.K.A     | Algo que no sepan de mí                                                           |
+|---:|---------|------------------------------------|-----------|-----------------------------------------------------------------------------------|
+|  1 | 0224604 | Barba Mendoza, Paulina             | Pau       | No me gustan las oreo                                                             |
+|  2 | 0216980 | Díaz Rizo, Edgar Leonardo          |           | x                                                                                 | 
+|  3 | 0216229 | Gálvez Miranda, Uma Paola          | Uma       | Nací en el 2000                                                                   | 
+|  4 | 0229386 | García González, Misael            | Misael    | Soy de Celaya                                                                     |
+|  5 | 0228431 | García Raya, Daniela               |           | x                                                                                 |
+|  6 | 0224767 | González Polit, Jorge Andrés       | Polit     | No me gusta el menudo                                                             | 
+|  7 | 0225509 | González Ramos, Natanael           | Nata      | De chico estuve en silla de ruedas 1 año                                          | 
+|  8 | 0220279 | Leos Luna, Zabdy Elizabeth         | Zabdy     | No me gusta mi nombre porque es difícil escribir y pronunciar                     |
+|  9 | 0225118 | Macias Lara, Hector                | Héctor    | Prefiero cualquier deporte sobre futbol soccer                                    |
+| 10 | 0234847 | De La Cruz Orozco, Marcos Gerardo  | Marcos    | No me gustan los champiñones                                                      |
+| 11 | 0225512 | Mendoza Guajardo, Daniel           | Mendoza   | Se supone que el corazón tiene 3 conductos para sangre al cerebro, yo nací con 2  |
+| 12 | 0224260 | Mercado Coello, Alejandro          | Alex      | No me gusta el plátano                                                            | 
+| 13 | 0260523 | Núñez Favela, José Andrés          |           | x                                                                                 |
+| 14 | 0225511 | Ochoa Garciarce, Myriam            | Myriam    | Me encanta el cine, menos comercial                                               | 
+| 15 | 0218797 | Rodríguez Aquino, Schedar Emilio   |           | x                                                                                 | 
+| 16 | 0227412 | Sánchez Castillo, Santiago Mariano | Santiago  | O- de sangre                                                                      |
+| 17 | 0213663 | Solano Jaime, Eduardo              | Eduardo   | Arritmia permanente                                                               |
+| 18 | 0224679 | Castiello Gonzalez, Rodrigo        | Castiello | Me he roto las dos rodillas, jugando fut y brincando bardas, no me gusta la c.d.m |
+| 19 | 0224764 | Blanchet Ramírez, Bernardo         | Bernanrdo | No me gusta el jitomate, ultra Atlista.                                           |
+| 20 | 0224758 | Gutiérrez Maisterrena, Diego       |           | Me gustan todos los deportes pero más el fut. Dejé todo por el futbol.            | 
 
 Contenido
 ---------
@@ -50,7 +50,8 @@ Referencias:
 - <https://xurxodev.com/email/0920013c-832b-4fb0-8e24-30049641de00/>
 - <https://www.youtube.com/watch?v=z-Dg-06nrnc>
 
-Reglamento:
+Reglamento
+----------
 
 - **Google Chat** es la única comunicación "informal" oficial.
 - Email es la forma de comunicación "formal".
@@ -97,7 +98,7 @@ Criterios de Evaluación
 - **15%** Asistencia y Participación
 - **30%** Entregas y tareas
 - **30%** Proyecto 1: CRUD
-- **30%** Proyecto 2: Big Data
+- **30%** Examen
 
 Otros
 -----
@@ -109,11 +110,15 @@ Otros
   - Crear cuenta de GitHub
   - Instalar PyCharm (y git)
   - Crear repositorio llamado "up-2024-2-big-data"
-  - Compartir conmigo
+  - Compartir conmigo (usuario: `sarizti` o email: `sarizti@up.edu.mx`)
   - Clonar y abrir con PyCharm
-  - Crear Directorio para cada clase con archivo index.md
+  - Crear Directorio `classes/` para cada clase con archivo `index.md`
   - Subir a GitHub
 - Los entregables son los commits en GitHub.
+
+```sql
+SELECT * FROM students WHERE id='0105123';
+```
 
 Notas
 -----
@@ -126,6 +131,7 @@ quieran entre estas opciones: `python`, `c#`, `js`, `ts`, `php`. En esos lenguaj
 ayuda en sus tareas, en otros, bajo tu propio riesgo.
 - Puede llegar a haber un cambio inesperado en alguna fecha de clase, o ser en línea. Cuando sea el caso
 yo les aviso con tiempo.
+- Todo en inglés por favor.
 
 Tarea
 -----
