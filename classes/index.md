@@ -1,13 +1,21 @@
+<script setup>
+import {data} from './classes.data.js';
+
+</script>
 Info Para Clases
 ================
 
-Página web
+Website
 : <https://s.arizti.mx/slides/clase1.html>
 
-Aula
+Classroom
 : D-15
 
-Clases
+Classes
 ------
 
-- Clase 1 [link](2024-02-10-clase1/index.md)
+<ul>
+<li v-for="cl of data">
+<a :href="`/classes${cl.url}`">{{cl.frontmatter.title}}</a>
+</li>
+</ul>

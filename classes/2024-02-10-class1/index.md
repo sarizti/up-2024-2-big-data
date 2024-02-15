@@ -1,4 +1,7 @@
-Clase 1
+---
+title: Class 1
+---
+Class 1
 =======
 
 Asistencia
@@ -24,8 +27,8 @@ Asistencia
 | 16 | 0227412 | Sánchez Castillo, Santiago Mariano | Santiago  | O- de sangre                                                                      |
 | 17 | 0213663 | Solano Jaime, Eduardo              | Eduardo   | Arritmia permanente                                                               |
 | 18 | 0224679 | Castiello Gonzalez, Rodrigo        | Castiello | Me he roto las dos rodillas, jugando fut y brincando bardas, no me gusta la c.d.m |
-| 19 | 0224764 | Blanchet Ramírez, Bernardo         | Bernanrdo | No me gusta el jitomate, ultra Atlista.                                           |
-| 20 | 0224758 | Gutiérrez Maisterrena, Diego       |           | Me gustan todos los deportes pero más el fut. Dejé todo por el futbol.            | 
+| 19 | 0224764 | Blanchet Ramírez, Bernardo         | Bernardo  | No me gusta el jitomate, ultra Atlista.                                           |
+| 20 | 0224758 | Gutiérrez Maisterrena, Diego       | Diego     | Me gustan todos los deportes pero más el fut. Dejé todo por el futbol.            | 
 
 Contenido
 ---------
