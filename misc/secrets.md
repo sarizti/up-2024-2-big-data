@@ -1,18 +1,53 @@
 Secrets
 =======
 
+ip of vm
+: 2600:1900:4000:8abf:0:0:0:0
+: 35.193.209.4
+
+ip of char
+: 2806:2f0:5021:c949:8014:8a98:f70c:88ae
+
 Mysql
 -----
 
 ```
-santi:Est@34.123.212.94/up_2024_2_big_data
+santi:Est@35.193.209.4/up_2024_2_big_data
+```
+
+```
+create user up identified by 'secret';
+grant select on up_2024_2_big_data.* to up@'%';
+```
+
+```
+cd var/mysql
+docker compose up
+```
+
+```yaml
+version: '3'
+services:
+  mysql:
+    image: mysql:8
+    ports:
+      - 3306:3306
+    volumes:
+      - mysql:/var/lib/mysql/:delegated
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+      MYSQL_DATABASE: up_2024_2_big_data
+      MYSQL_USER: uprofe
+      MYSQL_PASSWORD: uprofe
+volumes:
+  mysql:
 ```
 
 SSH
 ---
 
 ```
-santi@34.123.212.94
+santi@35.193.209.4
 ```
 
 keys: cp
@@ -28,12 +63,12 @@ do
   p=$(htpasswd -nbm $i $i)
   let l="${#i}+1"
   t=$(date +%s)
-  sqlite3 /var/www/db.sqlite "insert into up_users (user, password, updated_at) values ('$i', '${p:$l}', $t)
+  sqlite3 var/db.sqlite "insert into up_users (user, password, updated_at) values ('$i', '${p:$l}', $t)
     on conflict do update set password=excluded.password, updated_at=excluded.updated_at;"
 done
 ```
 
-reset pwd
+reset pwd `reset_pwd.php`
 
 ```php
 <?php
@@ -43,7 +78,7 @@ $isPost = $_SERVER["REQUEST_METHOD"] == "POST";
 $fail = isset($_GET["fail"]);
 $success = isset($_GET["success"]);
 $show = isset($_GET["show"]) && $user == "santi";
-$db = new SQLite3('/var/www/db.sqlite');
+$db = new SQLite3('/home/santiago/var/db.sqlite');
 $t = time();
 
 if ($isPost) {

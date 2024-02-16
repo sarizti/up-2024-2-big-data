@@ -26,3 +26,6 @@ Class 2
 | 18 | 0224679 | Castiello Gonzalez, Rodrigo        | Castiello |            |                        |
 | 19 | 0224764 | Blanchet Ramírez, Bernardo         | Bernardo  |            |                        |
 | 20 | 0224758 | Gutiérrez Maisterrena, Diego       | Diego     |            |                        |
+
+Nota: nadie se dio cuenta de que la evaluación suma 105%
+
