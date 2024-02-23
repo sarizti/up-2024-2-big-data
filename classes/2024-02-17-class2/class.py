@@ -1,8 +1,19 @@
-import sqlite3
-con = sqlite3.connect("clase1.db")
+import json
+#import sqlite3
+#con = sqlite3.connect("clase1.db")
+#cur = con.cursor()
 
+import mysql.connector
+
+con = mysql.connector.connect(
+  host="2806:2f0:5021:c949:8014:8a98:f70c:88ae",
+  user="uprofe",
+  password="uprofe",
+  database="up_2024_2_big_data"
+)
 cur = con.cursor()
 
+#%%
 articles_table = """
 CREATE TABLE articles (
     id CHAR(32) PRIMARY KEY,
@@ -16,7 +27,9 @@ CREATE TABLE articles (
     relevance DOUBLE
 )
 """
+#cur.execute(articles_table)
 
+#%%
 articles_categories_table = """
 CREATE TABLE articles_categories (
     id CHAR(32) PRIMARY KEY,
@@ -24,7 +37,9 @@ CREATE TABLE articles_categories (
     category_id CHAR(32)
 )
 """
+#cur.execute(articles_categories_table)
 
+#%%
 categories_table = """
 CREATE TABLE categories (
     id CHAR(32) PRIMARY KEY,
@@ -33,7 +48,9 @@ CREATE TABLE categories (
     icon VARCHAR(128)
 )
 """
+#cur.execute(categories_table)
 
+#%%
 manufacturers_table = """
 CREATE TABLE manufacturers (
     id CHAR(32) PRIMARY KEY,
@@ -41,55 +58,56 @@ CREATE TABLE manufacturers (
     icon VARCHAR(128)
 )
 """
+#cur.execute(manufacturers_table)
 
-# cur.execute(articles_table)
-
-import json
-
-# Insert Articles
-
+#%%  Insert Articles
+#import pathlib
+#p=pathlib.Path(__file__).parent.resolve()
 articles_json = open("articles.json")
 articles = json.load(articles_json)
 
 articles_insert = """
 INSERT INTO articles (id, title, sku, price, stock, created_at, pic, manufacturer_id, relevance)
-VALUES(:id, :title, :sku, :price, :stock, :created_at, :pic, :manufacturer_id, :relevance)
+VALUES(%(id)s, %(title)s, %(sku)s, %(price)s, %(stock)s, %(created_at)s, %(pic)s, %(manufacturer_id)s, %(relevance)s)
 """
 #cur.executemany(articles_insert, articles)
 #con.commit()
 
-# Insert Articles-Categories relationships
+#%% Insert Articles-Categories relationships
 
 articles_categories_json = open("articles_categories.json")
 articles_categories = json.load(articles_categories_json)
 
 articles_categories_insert = """
 INSERT INTO articles_categories (id, article_id, category_id)
-VALUES(:id, :article_id, :category_id)
+VALUES(%(id)s, %(article_id)s, %(category_id)s)
 """
 cur.executemany(articles_categories_insert, articles_categories)
 con.commit()
 
-# Insert Categories
+#%% Insert Categories
 
 categories_json = open("categories.json")
 categories = json.load(categories_json)
 
 categories_insert = """
 INSERT INTO categories (id, title, parent_id, icon)
-VALUES (:id, :title, :parent_id, :icon)
+VALUES (%(id)s, %(title)s, %(parent_id)s, %(icon)s)
 """
 cur.executemany(categories_insert, categories)
 con.commit()
 
-# Insert Manufacturers
+#%% Insert Manufacturers
 
 manufacturers_json = open("manufacturers.json")
 manufacturers = json.load(manufacturers_json)
 
 manufacturers_insert = """
 INSERT INTO manufacturers (id, title, icon)
-VALUES (:id, :title, :icon)
+VALUES (%(id)s, %(title)s, %(icon)s)
 """
 cur.executemany(manufacturers_insert, manufacturers)
 con.commit()
+
+cur.close()
+con.close()

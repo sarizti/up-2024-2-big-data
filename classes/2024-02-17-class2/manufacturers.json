@@ -1,0 +1,1577 @@
+[
+    {
+        "id": "0154761b1c93a51bff3d20a0d53c00ab",
+        "title": "ARUBA",
+        "icon": "storage\/brands\/hpe_aruba_r_pos_rgb.png"
+    },
+    {
+        "id": "01d2f61fa66001f438aa2a65cb0aa9e5",
+        "title": "V7",
+        "icon": "storage\/brands\/v7.jpg"
+    },
+    {
+        "id": "02c8fe42d2760f837ac115c0082f776b",
+        "title": "IMOU",
+        "icon": "storage\/brands\/02c8fe42d2760f837ac115c0082f776b_IMOU.png"
+    },
+    {
+        "id": "02fcda43ff79f7a45481a002cce98695",
+        "title": "THORSMAN",
+        "icon": "storage\/brands\/02fcda43ff79f7a45481a002cce98695_THORSMAN.jpg"
+    },
+    {
+        "id": "03b9d9b7b907a3cb052b661ef03e1ed1",
+        "title": "BROTHER",
+        "icon": "storage\/brands\/brother.jpg"
+    },
+    {
+        "id": "03bab9b22766843e5e1fd9fe0354016e",
+        "title": "SPARKFUN",
+        "icon": "storage\/brands\/SPARKFUN.png"
+    },
+    {
+        "id": "04c74ad625352f7093356e441ef69610",
+        "title": "DELL",
+        "icon": "storage\/brands\/04c74ad625352f7093356e441ef69610_logodell.png"
+    },
+    {
+        "id": "0736d967476d88b9dff89b012cf017f6",
+        "title": "LINKEDPRO",
+        "icon": "storage\/brands\/0736d967476d88b9dff89b012cf017f6_linkedpro.png"
+    },
+    {
+        "id": "080f210f954b7c3a3e1933d2b80896e1",
+        "title": "StarTech.com",
+        "icon": "storage\/brands\/shops\/logostartech.png"
+    },
+    {
+        "id": "082da5d48206c95dc7d52857a9a85cbc",
+        "title": "ACCO",
+        "icon": "storage\/brands\/acco.png"
+    },
+    {
+        "id": "08bbfd5e26e2a52778dfbe2a2360d887",
+        "title": "LITE-ON",
+        "icon": "storage\/brands\/liteonlogod543180951seeklogo.com.png"
+    },
+    {
+        "id": "093df9b8db6b954d9095b9e2d965909a",
+        "title": "GOPRO",
+        "icon": "storage\/brands\/093df9b8db6b954d9095b9e2d965909a_gopro.png"
+    },
+    {
+        "id": "0bd801bdada6d4900a707d9611a2577d",
+        "title": "M2M SERVICES",
+        "icon": "storage\/brands\/m2mServices.png"
+    },
+    {
+        "id": "0c72ba3ed8368cb28b585f5770c3238a",
+        "title": "ALIEN",
+        "icon": "storage\/brands\/alien.png"
+    },
+    {
+        "id": "0d16f3f093a92f734870f943c19d3422",
+        "title": "STI",
+        "icon": "storage\/brands\/0d16f3f093a92f734870f943c19d3422_sti.png"
+    },
+    {
+        "id": "0e68f753bc601f5d9d04717f95042762",
+        "title": "APC",
+        "icon": "storage\/brands\/apcnuevo.png"
+    },
+    {
+        "id": "0edf5040c0aad9fe27afc61f90b81066",
+        "title": "TP-LINK",
+        "icon": "storage\/brands\/0edf5040c0aad9fe27afc61f90b81066_tplink.png"
+    },
+    {
+        "id": "0f257db0b619498c141eabb002a0416b",
+        "title": "JANEL",
+        "icon": "storage\/brands\/janel.jpg"
+    },
+    {
+        "id": "0fadcbed99e76d05cca8b095004fd427",
+        "title": "RHEEM",
+        "icon": "storage\/brands\/RHEEM.png"
+    },
+    {
+        "id": "1088fbc901dc88b6c18085220cc33de9",
+        "title": "PCM",
+        "icon": "storage\/brands\/pcm.gif"
+    },
+    {
+        "id": "10a1e3e59e31f191675c8c8ab645df94",
+        "title": "BEATS BY DR. DRE",
+        "icon": "storage\/brands\/58b733f0b6d28_drdre.png"
+    },
+    {
+        "id": "126eb40680044b41c4b662d1e483f6e8",
+        "title": "DATAPRODUCTS",
+        "icon": "storage\/brands\/dataproducts.png"
+    },
+    {
+        "id": "1427a05cf1349125e1e09977bc8f191d",
+        "title": "XZEAL",
+        "icon": "storage\/brands\/1dbb4c0f7035c84b9fb4c03e61baea63_xzeal.png"
+    },
+    {
+        "id": "146ae729839fab95f5876d8aeb381608",
+        "title": "EPSON",
+        "icon": "storage\/brands\/epson.png"
+    },
+    {
+        "id": "16274d31b6d6842aab79884d51b54ff4",
+        "title": "BEA",
+        "icon": "storage\/brands\/16274d31b6d6842aab79884d51b54ff4_BEA.png"
+    },
+    {
+        "id": "171c9311deaf194f4032dc484d28fe23",
+        "title": "EPOS",
+        "icon": "storage\/brands\/epos.png"
+    },
+    {
+        "id": "174a00bdd66f77f5d7ad15280e181522",
+        "title": "Norton LifeLock",
+        "icon": "storage\/brands\/5ddc68caac089_nortonlifelock.png"
+    },
+    {
+        "id": "17773c6a82fc40999707cd2c69f7d900",
+        "title": "XPG",
+        "icon": "storage\/brands\/xpglogo2.png"
+    },
+    {
+        "id": "1a37fc8ff163ed2271636095eec2013f",
+        "title": "MOLOTOW",
+        "icon": "storage\/brands\/molotow.png"
+    },
+    {
+        "id": "1a7346da36a09d6fa9d10b9ff94f832b",
+        "title": "YLI ELECTRONIC",
+        "icon": "storage\/brands\/5913521aa36a2_ylielectronic.png"
+    },
+    {
+        "id": "1aec3fb11987779bb3d0b393a5904b19",
+        "title": "OCULUS",
+        "icon": "storage\/brands\/1aec3fb11987779bb3d0b393a5904b19_oculus.png"
+    },
+    {
+        "id": "1bb7c721c1d0aeecf12be8506599574c",
+        "title": "ANCLO",
+        "icon": "storage\/brands\/anclo.png"
+    },
+    {
+        "id": "1c8e436ceb70a69977e4612f1be4b0e3",
+        "title": "CHOETECH",
+        "icon": "storage\/brands\/choetech.png"
+    },
+    {
+        "id": "1ea531e78cf4e5b9a573d297d519ea18",
+        "title": "ENSON",
+        "icon": "storage\/brands\/1ea531e78cf4e5b9a573d297d519ea18_enson.jpg"
+    },
+    {
+        "id": "1ec2744b3a948fae2382b1ec7bdb962b",
+        "title": "GIGABYTE",
+        "icon": "storage\/brands\/1ec2744b3a948fae2382b1ec7bdb962b_gigabyte.png"
+    },
+    {
+        "id": "1fa4192778212ee15d3952c8f8c4e949",
+        "title": "HYPERX",
+        "icon": "storage\/brands\/56cc7ce04fbbd_HYPERX.png"
+    },
+    {
+        "id": "20548c3a17d5b27db0c2995b6646a792",
+        "title": "MANHATTAN",
+        "icon": "storage\/brands\/logomh1.jpg"
+    },
+    {
+        "id": "20e1b3688e94df3f62d35b44df5f7954",
+        "title": "SAMSUNG",
+        "icon": "storage\/brands\/samsung.png"
+    },
+    {
+        "id": "2289fa0334c9982d3b6b2ebf5e5e44e7",
+        "title": "OKY",
+        "icon": "storage\/brands\/OKY.png"
+    },
+    {
+        "id": "22fbef3b0416a00b23d512130d0404b7",
+        "title": "WINLAND",
+        "icon": "storage\/brands\/5b0440fc334ce_winland_electronics.png"
+    },
+    {
+        "id": "245fd43ee72d81c6d62abd7fc4d2c289",
+        "title": "NATIVE UNION",
+        "icon": "storage\/brands\/nativeunion.png"
+    },
+    {
+        "id": "2496aec18743c6bae27737a44ca87822",
+        "title": "EC LINE",
+        "icon": "storage\/brands\/ecline.png"
+    },
+    {
+        "id": "28f35a3bb807692bc351e24264823a11",
+        "title": "ZKTECO",
+        "icon": "storage\/brands\/zkteco.png"
+    },
+    {
+        "id": "29087a52f97b557e99e80010c17c59f1",
+        "title": "POSLINE",
+        "icon": "storage\/brands\/posline.png"
+    },
+    {
+        "id": "2ae6fda0ccd034cab3bee65bbfd1904d",
+        "title": "ACER",
+        "icon": "storage\/brands\/acernewlogo.jpg"
+    },
+    {
+        "id": "2e1ced3f91a8e9f223e8cbfbfef80144",
+        "title": "TRANSCEND",
+        "icon": "storage\/brands\/2e1ced3f91a8e9f223e8cbfbfef80144_TRANSCEND.png"
+    },
+    {
+        "id": "2e9d0015563e8f6c3614c219c759934c",
+        "title": "CISCO",
+        "icon": "storage\/brands\/ciscopartner.png"
+    },
+    {
+        "id": "2f9961da3e1384166b8a9c67c1777ccf",
+        "title": "OVALTECH",
+        "icon": "storage\/brands\/2f9961da3e1384166b8a9c67c1777ccf_ovaltech.png"
+    },
+    {
+        "id": "3138b8e6061fdf7cfaaa79279175cbcd",
+        "title": "LG",
+        "icon": "storage\/brands\/3138b8e6061fdf7cfaaa79279175cbcd_lg.png"
+    },
+    {
+        "id": "3163ceea2dfc3669b3e0e193153b82b3",
+        "title": "LACIE",
+        "icon": "storage\/brands\/lacielogoa1d8639b93seeklogo.com.png"
+    },
+    {
+        "id": "31c28ba19b28aacaf258835b36f55bb1",
+        "title": "XP-PEN",
+        "icon": "storage\/brands\/xppen.png"
+    },
+    {
+        "id": "31c5a329503252a3c34489bc50d7af73",
+        "title": "MODAMOB",
+        "icon": "storage\/brands\/modamob.png"
+    },
+    {
+        "id": "31ded37c850f29c6ad00ebcff4b16c77",
+        "title": "SANDISK",
+        "icon": "storage\/brands\/31ded37c850f29c6ad00ebcff4b16c77_Sandisk.png"
+    },
+    {
+        "id": "3276fec9e1db44611257ea8e9bbbbf18",
+        "title": "CREALITY",
+        "icon": "storage\/brands\/creality.png"
+    },
+    {
+        "id": "32bc75db9a4a1441656694e1d429c72f",
+        "title": "QIAN",
+        "icon": "storage\/brands\/qian.png"
+    },
+    {
+        "id": "3439638b4b5f36a13ea0e8ea70a16e19",
+        "title": "ANTROLITE",
+        "icon": "storage\/brands\/ANTROLITE.png"
+    },
+    {
+        "id": "3b00a5426bb57d6f3bc492be86aed967",
+        "title": "CYBERPOWER",
+        "icon": "storage\/brands\/3b00a5426bb57d6f3bc492be86aed967_cyberpower2018.png"
+    },
+    {
+        "id": "3cdfae725a60f7b16d54faf65d9075a2",
+        "title": "GRIZZLY",
+        "icon": "storage\/brands\/Grizzly.png"
+    },
+    {
+        "id": "3e9bac9ea13246102b724379c4ddfc43",
+        "title": "GRANDSTREAM",
+        "icon": "storage\/brands\/grandstream.jpg"
+    },
+    {
+        "id": "3eb3fb38b2e91a9754f67de7a004852f",
+        "title": "ZAGG",
+        "icon": "storage\/brands\/d8eff5a64200627127405bdbbdf55b17_zagg.png"
+    },
+    {
+        "id": "3f211c8faf7607495e849f96cce97b58",
+        "title": "PANASONIC",
+        "icon": "storage\/brands\/panasoniclogo3ff2d6ebdfseeklogo.com.png"
+    },
+    {
+        "id": "3fd5d70e68cdd44b6ec8e2448d24f41a",
+        "title": "BEROL",
+        "icon": "storage\/brands\/berol1.jpg"
+    },
+    {
+        "id": "40183069c6b7a5144ac7e7fdffb4f13b",
+        "title": "KINGSTON",
+        "icon": "storage\/brands\/kingstonlogofcc32d090fseeklogo.com.png"
+    },
+    {
+        "id": "419177de5377ba017d2f612437527dc8",
+        "title": "TIMCO",
+        "icon": "storage\/brands\/Timco.png"
+    },
+    {
+        "id": "43ee0a7ff98dae4ebf41c6bec8a4ae0e",
+        "title": "LOGITECH",
+        "icon": "storage\/brands\/43ee0a7ff98dae4ebf41c6bec8a4ae0e_logitech.png"
+    },
+    {
+        "id": "440cdde6c35c88ad8799575226adda15",
+        "title": "GATEWAY",
+        "icon": "storage\/brands\/gateway.jpg"
+    },
+    {
+        "id": "4413ca86856b750d50d9c0c1a0b7376a",
+        "title": "GAME FACTOR",
+        "icon": "storage\/brands\/4413ca86856b750d50d9c0c1a0b7376a_gamefactor.png"
+    },
+    {
+        "id": "446603689575704f0a93a697ba2ca489",
+        "title": "BROBOTIX",
+        "icon": "storage\/brands\/446603689575704f0a93a697ba2ca489_brobotix.png"
+    },
+    {
+        "id": "454224726fc644465e9d62f4901a9b70",
+        "title": "SURTEK",
+        "icon": "storage\/brands\/454224726fc644465e9d62f4901a9b70_surtek.png"
+    },
+    {
+        "id": "4580cda2e264a250ff36015e1489d92b",
+        "title": "DYNABOOK",
+        "icon": "storage\/brands\/5ec835c1ea635_dynabook.png"
+    },
+    {
+        "id": "465eeca88107937868cdcf9851e27ad4",
+        "title": "INDIANA",
+        "icon": "storage\/brands\/465eeca88107937868cdcf9851e27ad4_indiana.png"
+    },
+    {
+        "id": "4759d9c1a368fbe5875b1580fb934fab",
+        "title": "CONDUMEX",
+        "icon": "storage\/brands\/condumexcables.jpg"
+    },
+    {
+        "id": "479079a7c4dede0b7ea8634ec30cbac4",
+        "title": "HAMILTON BEACH",
+        "icon": "storage\/brands\/hamiltonbeach.jpeg"
+    },
+    {
+        "id": "48af4341f745163f945fa838eeabb062",
+        "title": "AMD",
+        "icon": "storage\/brands\/48af4341f745163f945fa838eeabb062_amdlogo.png"
+    },
+    {
+        "id": "4c42f8eb8b9ee01b6eab7316c1950213",
+        "title": "FACE SHIELD",
+        "icon": "storage\/brands\/facemask.png"
+    },
+    {
+        "id": "4c462d6dd59d782386bb1cdad0060c70",
+        "title": "APPLE",
+        "icon": "storage\/brands\/shops\/apple-ab.png"
+    },
+    {
+        "id": "4c5181837fd6a01b223713f76da036cc",
+        "title": "LEXMARK",
+        "icon": "storage\/brands\/4c5181837fd6a01b223713f76da036cc_lexmark.png"
+    },
+    {
+        "id": "4ce1bcf926c3bad19d1509743cc98fee",
+        "title": "RFS",
+        "icon": "storage\/brands\/RFS.png"
+    },
+    {
+        "id": "4d39f90f38809384d25370517cb0327a",
+        "title": "PANDUIT",
+        "icon": "storage\/brands\/LogoPanduitsFondo_NGO.png"
+    },
+    {
+        "id": "4e1f9910c9097424cba7c90b872990bc",
+        "title": "TRUPER",
+        "icon": "storage\/brands\/Truper.png"
+    },
+    {
+        "id": "502a3002d883910f2aaadbe90b4d5a9d",
+        "title": "EPCOM",
+        "icon": "storage\/brands\/502a3002d883910f2aaadbe90b4d5a9d_epcomlogo.png"
+    },
+    {
+        "id": "511b3c45246817d552ab17ca0dd8fea2",
+        "title": "AZOR",
+        "icon": "storage\/brands\/azor.jpg"
+    },
+    {
+        "id": "51ec16566a66b9d0c159ed49cf2f2289",
+        "title": "SONY",
+        "icon": "storage\/brands\/sonylogo9a5581f3b3seeklogo.com.png"
+    },
+    {
+        "id": "5236bbc0fe87c1687c000ad430b71ccc",
+        "title": "KENSINGTON",
+        "icon": "storage\/brands\/kensingtonlogo.png"
+    },
+    {
+        "id": "5243a050e3f19ca654dc607b162f051a",
+        "title": "FORTEC",
+        "icon": "storage\/brands\/fortec.png"
+    },
+    {
+        "id": "52d5971370bcbda397674057d6787381",
+        "title": "ALCTRON",
+        "icon": "storage\/brands\/Alctron.png"
+    },
+    {
+        "id": "5437fc2d7ebcf58e15f8d49c54977f84",
+        "title": "RASPBERRY",
+        "icon": "storage\/brands\/raspberry.png"
+    },
+    {
+        "id": "54e719cd0293203b3fbad5feb923d667",
+        "title": "SHURE",
+        "icon": "storage\/brands\/54e719cd0293203b3fbad5feb923d667_SHURE.png"
+    },
+    {
+        "id": "55553a0749290d2f5f09d87c0f4968e5",
+        "title": "ACTECK",
+        "icon": "storage\/brands\/Logo_Acteck_Corp.png"
+    },
+    {
+        "id": "56aa7903ae0c0f18add2fb3d7ad23375",
+        "title": "SENNHEISER",
+        "icon": "storage\/brands\/ae9464b4d565248dc81b117bafedc1eb_sennheiser.png"
+    },
+    {
+        "id": "573ba8e9bfd0abd3d69d8395db582a9e",
+        "title": "XSS",
+        "icon": "storage\/brands\/xss.png"
+    },
+    {
+        "id": "57744b90b7c94213e9aa38d87c4e5b62",
+        "title": "ROYAL TALENS",
+        "icon": "storage\/brands\/royaltalens.png"
+    },
+    {
+        "id": "5890182f059c1a40682d49a5846ef67d",
+        "title": "AUDIOLABS",
+        "icon": "storage\/brands\/audiolabs.png"
+    },
+    {
+        "id": "5977fa73f3455b2750de0f07023fc84c",
+        "title": "ELGATO",
+        "icon": "storage\/brands\/5bd8df88643ed_ELGATO.png"
+    },
+    {
+        "id": "59ffb5329b2a0695b050a213836009d2",
+        "title": "SOLAX",
+        "icon": "storage\/brands\/solax.png"
+    },
+    {
+        "id": "5a11687c0b700e9c38756376ba13c2f4",
+        "title": "HOFFMAN",
+        "icon": "storage\/brands\/5a11687c0b700e9c38756376ba13c2f4_hoffman_logo.png"
+    },
+    {
+        "id": "5a3851b5a890ef24dbb4d8bf9860cf3c",
+        "title": "ROYAL",
+        "icon": "storage\/brands\/royal.jpg"
+    },
+    {
+        "id": "5aeae8ab077c5bcafaf6d60dcd5130b5",
+        "title": "TRIPP LITE",
+        "icon": "storage\/brands\/TrippLitebyEatonLogoColor.png"
+    },
+    {
+        "id": "5c6360c8b9f3476761dc2989d851643f",
+        "title": "DATAPAC",
+        "icon": "storage\/brands\/datapac.png"
+    },
+    {
+        "id": "5c764fa35021ca08e7741c83921e7c90",
+        "title": "ESSELTE",
+        "icon": "storage\/brands\/esselte.jpg"
+    },
+    {
+        "id": "5da7b625e5104c8d23d81745530d512b",
+        "title": "TXPRO",
+        "icon": "storage\/brands\/5da7b625e5104c8d23d81745530d512b_txpro.png"
+    },
+    {
+        "id": "5e90f15b996e3b6dc57e5d086fc7a605",
+        "title": "TOUGHBOOK PANASONIC",
+        "icon": "storage\/brands\/TOUGHBOOKPANASONIC.png"
+    },
+    {
+        "id": "5ed0b5f41b21804e51e82664dc24e2dd",
+        "title": "ASUS",
+        "icon": "storage\/brands\/asuslogoa5705fdb70seeklogo.com.png"
+    },
+    {
+        "id": "60b7b6751e74c6be443607092610ce3d",
+        "title": "MOXA",
+        "icon": "storage\/brands\/moxa.png"
+    },
+    {
+        "id": "6151e22a8d225bd579e903f1980f2510",
+        "title": "FELLOWES",
+        "icon": "storage\/brands\/felloweslogo.jpg"
+    },
+    {
+        "id": "6154ccf015377652da34c0b920708782",
+        "title": "RF INDUSTRIES",
+        "icon": "storage\/brands\/5ae108a73d313_refindustries.jpg"
+    },
+    {
+        "id": "6208d8c68aa65916a953c7df06f9bb98",
+        "title": "CREATIVE LABS",
+        "icon": "storage\/brands\/new_creative_logo_rgb.png"
+    },
+    {
+        "id": "628861c181e83b95b29248ce0a511280",
+        "title": "YEASTAR",
+        "icon": "storage\/brands\/YEASTAR.png"
+    },
+    {
+        "id": "635aa9c80b3bf2219a44d16e8137c8c5",
+        "title": "ACTIVISION",
+        "icon": "storage\/brands\/activision.jpg"
+    },
+    {
+        "id": "66362c7d2cf33f54ae1fe79e104168cc",
+        "title": "SILIMEX",
+        "icon": "storage\/brands\/silimex.png"
+    },
+    {
+        "id": "67243b4384dbf4c379f1b7ea112742bd",
+        "title": "WESTERN DIGITAL",
+        "icon": "storage\/brands\/westernDigital2022.png"
+    },
+    {
+        "id": "6756486033afff6ad783e951810a8f46",
+        "title": "COMMSCOPE",
+        "icon": "storage\/brands\/6756486033afff6ad783e951810a8f46_commscope.png"
+    },
+    {
+        "id": "6787f46c4964a22476c914100d323b9e",
+        "title": "EUROCOLORS",
+        "icon": "storage\/brands\/eurocolors.png"
+    },
+    {
+        "id": "67de9fbb65b0446d62751eecbb8ee139",
+        "title": "AMERICAN",
+        "icon": "storage\/brands\/67de9fbb65b0446d62751eecbb8ee139_american.png"
+    },
+    {
+        "id": "685903ef83f7a7c8a165f77eed160d9e",
+        "title": "LENOVO",
+        "icon": "storage\/brands\/685903ef83f7a7c8a165f77eed160d9e_lenovo.png"
+    },
+    {
+        "id": "688b9479e6d111bf5104913dee1f00e0",
+        "title": "BELDEN",
+        "icon": "storage\/brands\/belden.jpg"
+    },
+    {
+        "id": "6a622e73251c3cecb2b8216abbb8f9a6",
+        "title": "NEXTEP",
+        "icon": "storage\/brands\/Nextep2021.png"
+    },
+    {
+        "id": "6b200d3e52134752ee2beff2fa1c8086",
+        "title": "NECNON",
+        "icon": "storage\/brands\/6b200d3e52134752ee2beff2fa1c8086_necnon.png"
+    },
+    {
+        "id": "6b30e25883987bbeba4ff6ac8eae13cf",
+        "title": "WHIRLPOOL",
+        "icon": "storage\/brands\/whirlpool.jpg"
+    },
+    {
+        "id": "6b8ddaa5d1d566a749ff3e0461fb72e1",
+        "title": "TAURUS",
+        "icon": "storage\/brands\/taurus.gif"
+    },
+    {
+        "id": "6bec3fae1608a879905a85babf957cf3",
+        "title": "PRECISION",
+        "icon": "storage\/brands\/precision.png"
+    },
+    {
+        "id": "6c42d2ade1457b7e1a5fa2cf852926ea",
+        "title": "RADOX",
+        "icon": "storage\/brands\/RADOX.png"
+    },
+    {
+        "id": "6c4d5a4545ba6fb477436980bce86a6b",
+        "title": "DAHUA",
+        "icon": "storage\/brands\/dahua.jpg"
+    },
+    {
+        "id": "6c5a12224455ffcc7e55fac453343307",
+        "title": "CINSA",
+        "icon": "storage\/brands\/CINSA.png"
+    },
+    {
+        "id": "6d29bc475757505568a954d2464f2fcb",
+        "title": "BLECK",
+        "icon": "storage\/brands\/6d29bc475757505568a954d2464f2fcb_Bleck.png"
+    },
+    {
+        "id": "6d9a26d66763dfce26e7430f97c6d747",
+        "title": "FLUKE",
+        "icon": "storage\/brands\/6d9a26d66763dfce26e7430f97c6d747_fluke.png"
+    },
+    {
+        "id": "6ef686b32faf3c870b16770ecf4de086",
+        "title": "MICROSOFT",
+        "icon": "storage\/brands\/microsoft.jpg"
+    },
+    {
+        "id": "7019be3bf8c927856478e2ddd6918b2a",
+        "title": "TECHZONE",
+        "icon": "storage\/brands\/bb0d3e38d54af0bbcb74387182c89b5b_techzone.png"
+    },
+    {
+        "id": "70fb13b0eb945df6d05e8c59933d3e85",
+        "title": "QVS",
+        "icon": "storage\/brands\/70fb13b0eb945df6d05e8c59933d3e85_qvs.png"
+    },
+    {
+        "id": "711f44effcbd8619148b829b6aa2ed4f",
+        "title": "POLY",
+        "icon": "storage\/brands\/5ecfdcead4add_poly.png"
+    },
+    {
+        "id": "713d94c11cfeb7b2a8fd476e821bbf78",
+        "title": "UBISOFT",
+        "icon": "storage\/brands\/ubisoft.jpg"
+    },
+    {
+        "id": "7237a3b105e1d6a8a5c9d69f36d6e7a0",
+        "title": "KOBLENZ",
+        "icon": "storage\/brands\/koblenz.png"
+    },
+    {
+        "id": "72b0ae6192fddc3693aae7c7ac804c80",
+        "title": "GBC",
+        "icon": "storage\/brands\/gbc.jpg"
+    },
+    {
+        "id": "739edca6c608a36dcff13e3a737dd86f",
+        "title": "XIAOMI",
+        "icon": "storage\/brands\/MiLogoXiaomiOrange.png"
+    },
+    {
+        "id": "741cfb465eac87667096992acb406b39",
+        "title": "EVOLIS",
+        "icon": "storage\/brands\/evolislogocolor.jpg"
+    },
+    {
+        "id": "754243fa228dbac60e6c1b968560f734",
+        "title": "NINTENDO",
+        "icon": "storage\/brands\/nintendo.jpg"
+    },
+    {
+        "id": "757e8e37c7534fc68e9bcd6c898029e1",
+        "title": "CHAROFIL",
+        "icon": "storage\/brands\/logocharofil.png"
+    },
+    {
+        "id": "759309ed1259293e1998959a68d2e70b",
+        "title": "VICTORINOX",
+        "icon": "storage\/brands\/victorinox.png"
+    },
+    {
+        "id": "75be536227953d61cd1d3170126a5437",
+        "title": "SFIRE",
+        "icon": "storage\/brands\/75be536227953d61cd1d3170126a5437_sfire.png"
+    },
+    {
+        "id": "76a1dc2ddfff7a0ca8d6bb5f83a8d64c",
+        "title": "HYTERA",
+        "icon": "storage\/brands\/76a1dc2ddfff7a0ca8d6bb5f83a8d64c_hytera.jpg"
+    },
+    {
+        "id": "793514d4c00f4d3b429a065a2a703307",
+        "title": "PELIKAN",
+        "icon": "storage\/brands\/pelikan.jpg"
+    },
+    {
+        "id": "7ae7cee3eeb666219e0556a97fe3bc1a",
+        "title": "BEEPER",
+        "icon": "storage\/brands\/BEEPER.png"
+    },
+    {
+        "id": "7af04e2eb26524ac97b1aa61a56c4549",
+        "title": "PCTEL",
+        "icon": "storage\/brands\/7af04e2eb26524ac97b1aa61a56c4549_PCTEL.png"
+    },
+    {
+        "id": "7af1114141a85558a790854318ce159c",
+        "title": "BENQ",
+        "icon": "storage\/brands\/7af1114141a85558a790854318ce159c_BenQlogo.png"
+    },
+    {
+        "id": "7ba57e16058d7ed0482b813b63d05636",
+        "title": "MAPED",
+        "icon": "storage\/brands\/maped.jpg"
+    },
+    {
+        "id": "7bbda8ce1c29edb8f810075bbc2d43bd",
+        "title": "FRAGA",
+        "icon": "storage\/brands\/7bbda8ce1c29edb8f810075bbc2d43bd_fraga.png"
+    },
+    {
+        "id": "7c919997f7d536198cd2b809cdcd3e4a",
+        "title": "HIKVISION",
+        "icon": "storage\/brands\/shops\/hik.png"
+    },
+    {
+        "id": "7c9f103b77fe59607ad1f83c44df95c2",
+        "title": "D-LINK",
+        "icon": "storage\/brands\/dlinklogof5c97e590cseeklogo.com.png"
+    },
+    {
+        "id": "7d7a0f20156a564ce0fe1a5c4eaa1089",
+        "title": "TECNOLITE",
+        "icon": "storage\/brands\/tecnolite.png"
+    },
+    {
+        "id": "7e272a41508b0d80c761d8f07d150e10",
+        "title": "TOTAL GROUND",
+        "icon": "storage\/brands\/7e272a41508b0d80c761d8f07d150e10_totalground.png"
+    },
+    {
+        "id": "7e304785c4bb0cca4549b32aeb17f1c9",
+        "title": "TRANSTECTOR",
+        "icon": "storage\/brands\/7e304785c4bb0cca4549b32aeb17f1c9_transector.png"
+    },
+    {
+        "id": "7ebe7c8a957a78f1bece57329d41dc68",
+        "title": "CASE LOGIC",
+        "icon": "storage\/brands\/case_logiclogoa24d65b0d4seeklogo.com.png"
+    },
+    {
+        "id": "7ed724ab6f24cb868b1a94bdb825ff33",
+        "title": "ACCESSPRO",
+        "icon": "storage\/brands\/7ed724ab6f24cb868b1a94bdb825ff33_accespro.png"
+    },
+    {
+        "id": "804d8e3420105ba646dace3ba9674eb3",
+        "title": "RAIDMAX",
+        "icon": "storage\/brands\/804d8e3420105ba646dace3ba9674eb3_raidmax.png"
+    },
+    {
+        "id": "81c72f1cdb668bf924468d3bc0795e87",
+        "title": "LAPP",
+        "icon": "storage\/brands\/lapp.png"
+    },
+    {
+        "id": "81d1ad70e490bc9b66fdbeadbb92334b",
+        "title": "WESTINGHOUSE",
+        "icon": "storage\/brands\/81d1ad70e490bc9b66fdbeadbb92334b_westinghouselogo.png"
+    },
+    {
+        "id": "8203d39c7b875e836fdaf1c98c24be4c",
+        "title": "SANAIRE",
+        "icon": "storage\/brands\/sanaire.png"
+    },
+    {
+        "id": "82145bd6b1969ed9a946178d99325fbc",
+        "title": "WEBOOST",
+        "icon": "storage\/brands\/5ac50f3a28036_WEBOOST.png"
+    },
+    {
+        "id": "83beb488a9243eb24548d77fe692c2ca",
+        "title": "HYUNDAI",
+        "icon": "storage\/brands\/fb1939d8b52f6a7a04a68f75b4ceefe6_HYUNDAI.png"
+    },
+    {
+        "id": "86710d43697fb81645a97ac7d79fd1c1",
+        "title": "HISENSE",
+        "icon": "storage\/brands\/hisense.png"
+    },
+    {
+        "id": "86e630e47c112cc0eaea1c789ac5d637",
+        "title": "SAKURA",
+        "icon": "storage\/brands\/sakura.png"
+    },
+    {
+        "id": "8707d0e9fde28abda82fcc0677a16f07",
+        "title": "MIDEA",
+        "icon": "storage\/brands\/MIDEA.png"
+    },
+    {
+        "id": "8726e36e9d6d53646390d495b4ce9dc1",
+        "title": "MSI",
+        "icon": "storage\/brands\/8726e36e9d6d53646390d495b4ce9dc1_msi.png"
+    },
+    {
+        "id": "878f5940c011c0e894dec17567c02daf",
+        "title": "DACE",
+        "icon": "storage\/brands\/Dace.png"
+    },
+    {
+        "id": "87aa22ebc148d6bbcb8e542b555a6732",
+        "title": "YEALINK",
+        "icon": "storage\/brands\/87aa22ebc148d6bbcb8e542b555a6732_YEALINK.png"
+    },
+    {
+        "id": "88c78e19cf7dca4d251ee412c0c4ddac",
+        "title": "STYLOS",
+        "icon": "storage\/brands\/logomini.png"
+    },
+    {
+        "id": "89191c4e27c3a6189cd6668ffbcdc3a4",
+        "title": "ENERGIZER",
+        "icon": "storage\/brands\/energizer_logo.jpg"
+    },
+    {
+        "id": "895bd0333bbfb3ce3376bf23aba831d9",
+        "title": "ELECTRONIC ARTS",
+        "icon": "storage\/brands\/electronicarts.jpg"
+    },
+    {
+        "id": "89e3bb695aea838c24653b00ce2f870d",
+        "title": "SYSCOM",
+        "icon": "storage\/brands\/syscom.jpeg"
+    },
+    {
+        "id": "8c0d39874f7284349b7a1ba8e5063e84",
+        "title": "ABB",
+        "icon": "storage\/brands\/abb.png"
+    },
+    {
+        "id": "8ca7e98e931e2d0990bef7a4f076c49e",
+        "title": "K\u00c4RCHER",
+        "icon": "storage\/brands\/karcher.png"
+    },
+    {
+        "id": "8cde90fbd882163d8f076c9078bbe83a",
+        "title": "ONKYO",
+        "icon": "storage\/brands\/onkyo.png"
+    },
+    {
+        "id": "8d5415d02eb227d5687e8acd835bc329",
+        "title": "EPEVER",
+        "icon": "storage\/brands\/EPEVER.png"
+    },
+    {
+        "id": "8da87f7e013402bb9bb43642be6955e4",
+        "title": "UBIQUITI NETWORKS",
+        "icon": "storage\/brands\/ubiquiti2022.png"
+    },
+    {
+        "id": "8dfe79ee40da4ea5fd0921209b01023e",
+        "title": "HIKMICRO",
+        "icon": "storage\/brands\/HIKMICRO.png"
+    },
+    {
+        "id": "8e32c86cfced1804c87c4e99d6f5ab5e",
+        "title": "HAHNEMUHLE",
+        "icon": "storage\/brands\/hahnenmule.png"
+    },
+    {
+        "id": "8ef100497da6dfd3c0bb02f6e9c7b23d",
+        "title": "AMAZON",
+        "icon": "storage\/brands\/b3b3a6ac74ecbd56bcdbefa4799fb9df_amazon_1.png"
+    },
+    {
+        "id": "8ef2ad75291914b7baaa4156f1c26cbf",
+        "title": "KLEIN TOOLS",
+        "icon": "storage\/brands\/kleintools.png"
+    },
+    {
+        "id": "9150f5591b94b6091458440b851b337d",
+        "title": "STEEL PRO",
+        "icon": "storage\/brands\/steelpro.png"
+    },
+    {
+        "id": "9206cd75fb174840293f22d4539bafcd",
+        "title": "SEAGATE",
+        "icon": "storage\/brands\/9206cd75fb174840293f22d4539bafcd_seagate.png"
+    },
+    {
+        "id": "93eb36b1e3e20150081097724315c5b7",
+        "title": "BOWER",
+        "icon": "storage\/brands\/bower.png"
+    },
+    {
+        "id": "9484ef97caaa42c5c67671f8533f5e1c",
+        "title": "EVGA",
+        "icon": "storage\/brands\/evga.jpg"
+    },
+    {
+        "id": "94ee81a470e6769df659ff8dafaf24f4",
+        "title": "JENDRIX",
+        "icon": "storage\/brands\/jendrix.png"
+    },
+    {
+        "id": "950009e89a57b5dee074690688766694",
+        "title": "HUAWEI",
+        "icon": "storage\/brands\/HW_POS_RGB_Horizontal300ppi.png"
+    },
+    {
+        "id": "95e59a88bc1f2eacaffc23ea2a4386b0",
+        "title": "POWER SONIC",
+        "icon": "storage\/brands\/POWERSONIC.png"
+    },
+    {
+        "id": "9620fb83c1c4c2d46678c3cdafefe1f4",
+        "title": "BESTEK",
+        "icon": "storage\/brands\/BESTEK.png"
+    },
+    {
+        "id": "96946788a46ee7512ee40aa4a6b39fa6",
+        "title": "MIMOSA NETWORKS",
+        "icon": "storage\/brands\/96946788a46ee7512ee40aa4a6b39fa6_MIMOSA.png"
+    },
+    {
+        "id": "96d08099346aea79aa3b32658d902130",
+        "title": "VORAGO",
+        "icon": "storage\/brands\/96d08099346aea79aa3b32658d902130_vorago.png"
+    },
+    {
+        "id": "96d5650b61b200d88e2505279b1ff931",
+        "title": "YAELTEX",
+        "icon": "storage\/brands\/YAELTEX.png"
+    },
+    {
+        "id": "96f0871dfceb9d0bd08d188c8628ad09",
+        "title": "LUTRON",
+        "icon": "storage\/brands\/5b0323deaf136_lutron.png"
+    },
+    {
+        "id": "97986560f84991b71e3f056280c9dd42",
+        "title": "CONAIR",
+        "icon": "storage\/brands\/conair.jpg"
+    },
+    {
+        "id": "9867fde8ec1bb17d71144702b6685b60",
+        "title": "PROVISION ISR",
+        "icon": "storage\/brands\/provisionisr.jpg"
+    },
+    {
+        "id": "99d8ef8706b472db6fa1960817dc643b",
+        "title": "SECO-LARM",
+        "icon": "storage\/brands\/99d8ef8706b472db6fa1960817dc643b_secolarm.jpg"
+    },
+    {
+        "id": "9a8238ee642df32f6c8f8ad8512c7b7b",
+        "title": "FOSET",
+        "icon": "storage\/brands\/FOSET.png"
+    },
+    {
+        "id": "9a9d4b6a056754e855a042585d728512",
+        "title": "KASPERSKY",
+        "icon": "storage\/brands\/5db8d26270ea5_kaspersky.png"
+    },
+    {
+        "id": "9addb0a7ad564b27bee117bfc75b23cb",
+        "title": "JUPITER",
+        "icon": "storage\/brands\/JUPITER.png"
+    },
+    {
+        "id": "9b09c484d34c41d594ac1b8d6550dde1",
+        "title": "MINELAB",
+        "icon": "storage\/brands\/minelab.png"
+    },
+    {
+        "id": "9bde81c7c8ff8dfc0f4eb1849b9fe886",
+        "title": "BLACK & DECKER",
+        "icon": "storage\/brands\/blackndecker.png"
+    },
+    {
+        "id": "9c3fa56935fd1323922a6a67bde96074",
+        "title": "MAKITA",
+        "icon": "storage\/brands\/makita.png"
+    },
+    {
+        "id": "9d0b437be3d7e91354070894e5b163f4",
+        "title": "C2G",
+        "icon": "storage\/brands\/5d3a28905497b_c2g.png"
+    },
+    {
+        "id": "9d45eea08ff37960e47fd44936a87c1a",
+        "title": "PNY",
+        "icon": "storage\/brands\/9d45eea08ff37960e47fd44936a87c1a_pny2018.jpg"
+    },
+    {
+        "id": "9edcd277caef1c14e7b2fc998eb22122",
+        "title": "BUFFALO",
+        "icon": "storage\/brands\/buffalo.jpg"
+    },
+    {
+        "id": "a0daf6e6a101a91a6754f7a5189d1a12",
+        "title": "BALAMRUSH",
+        "icon": "storage\/brands\/Logos_Balam_Alta.png"
+    },
+    {
+        "id": "a2afd56e2e86227419356975062c32bd",
+        "title": "IRASAFORTEC",
+        "icon": "storage\/brands\/irasafortec.png"
+    },
+    {
+        "id": "a3241d01e080bfb4dddec6b390aa266a",
+        "title": "ALTRONIX",
+        "icon": "storage\/brands\/a3241d01e080bfb4dddec6b390aa266a_altronix.png"
+    },
+    {
+        "id": "a34a6659bceae779f28185e757abfca5",
+        "title": "AJAX",
+        "icon": "storage\/brands\/ajax.png"
+    },
+    {
+        "id": "a5ed3bf683aefa990cb7ae8e7dd1d5ef",
+        "title": "ALLIED TELESIS",
+        "icon": "storage\/brands\/a5ed3bf683aefa990cb7ae8e7dd1d5ef_alliedtelesis.png"
+    },
+    {
+        "id": "a6fdb6e6a920aa4a87640f23e5e4c02c",
+        "title": "VOLTECK",
+        "icon": "storage\/brands\/59713d0eba61e_VOLTECK.png"
+    },
+    {
+        "id": "a7c751d9a74f65eda7dfc2e5755c124e",
+        "title": "EZVIZ",
+        "icon": "storage\/brands\/a7c751d9a74f65eda7dfc2e5755c124e_EZVIZlogo.png"
+    },
+    {
+        "id": "a85a69d876009414c38e2fdedeba92ac",
+        "title": "ASSA ABLOY",
+        "icon": "storage\/brands\/a85a69d876009414c38e2fdedeba92ac_AssaAbloy.png"
+    },
+    {
+        "id": "aaa9c8002a06119192eaa6e13761f5c1",
+        "title": "BIXOLON",
+        "icon": "storage\/brands\/bixolon.png"
+    },
+    {
+        "id": "b165c4113a7011324256ddac3affa5a9",
+        "title": "MERIVA TECHNOLOGY",
+        "icon": "storage\/brands\/5d4cab56bd951_meriva.png"
+    },
+    {
+        "id": "b29b908ed18bdb766012045752a4e196",
+        "title": "HP ENTERPRISE",
+        "icon": "storage\/brands\/563782297cca2_hpenterprise.png"
+    },
+    {
+        "id": "b3eddec5535d894cbf04ea528cc8359a",
+        "title": "MISIK",
+        "icon": "storage\/brands\/b3eddec5535d894cbf04ea528cc8359a_Misik.png"
+    },
+    {
+        "id": "b6003f396b054d6732bfeaeb084d0f18",
+        "title": "FUSSION ACUSTIC",
+        "icon": "storage\/brands\/FUSSIONACUSTIC.png"
+    },
+    {
+        "id": "b6f003c6a71de45db57bc743111cbc5b",
+        "title": "505 GAMES",
+        "icon": "storage\/brands\/505games.jpg"
+    },
+    {
+        "id": "bb564e9907e877eeb102273b403fe240",
+        "title": "VSG",
+        "icon": "storage\/brands\/vsg.png"
+    },
+    {
+        "id": "bbbf736d1511689a00bb221cf7a98042",
+        "title": "VERBATIM",
+        "icon": "storage\/brands\/verbatimlogodc6c710978seeklogo.com.png"
+    },
+    {
+        "id": "bbd89d7070521350f8dea1a5cf001232",
+        "title": "PRITT",
+        "icon": "storage\/brands\/pritt.jpg"
+    },
+    {
+        "id": "bc351e40b5b85205cc6389352d24b8f6",
+        "title": "CHEFMAN",
+        "icon": "storage\/brands\/chefman.png"
+    },
+    {
+        "id": "bd76dcda11f7f4266d78d57d1fbdaa42",
+        "title": "SL PROLIGHT",
+        "icon": "storage\/brands\/slprolight.png"
+    },
+    {
+        "id": "bdcb6d8c92d7b2af6d7d0e763c86feb1",
+        "title": "MIRATI",
+        "icon": "storage\/brands\/bdcb6d8c92d7b2af6d7d0e763c86feb1_mirati.png"
+    },
+    {
+        "id": "bec758a8de99a38d16087f2196b48103",
+        "title": "BIC",
+        "icon": "storage\/brands\/bic.jpg"
+    },
+    {
+        "id": "bec8edb7e3299a66084f4ae56cc32b0c",
+        "title": "HYPE",
+        "icon": ""
+    },
+    {
+        "id": "c0bbec3a7cc6510cd8c7f55615a675cc",
+        "title": "AORUS",
+        "icon": "storage\/brands\/58b9fe4150e8a_aorus.png"
+    },
+    {
+        "id": "c0d547bd50221c4c3cacb2c488e09886",
+        "title": "POLITEC",
+        "icon": "storage\/brands\/POLITEC.png"
+    },
+    {
+        "id": "c1b60803ffb15213928b041652d3c247",
+        "title": "TRAMONTINA",
+        "icon": "storage\/brands\/TRAMONTINA.png"
+    },
+    {
+        "id": "c1cac1ca004bc0873083ad23a94ed6af",
+        "title": "INTELLINET",
+        "icon": "storage\/brands\/intpequeo.jpg"
+    },
+    {
+        "id": "c20d0cce6c710ddcd5fca4f2b71ed49c",
+        "title": "DKS DOORKING",
+        "icon": "storage\/brands\/c20d0cce6c710ddcd5fca4f2b71ed49c_DKSDOORKING.png"
+    },
+    {
+        "id": "c230b14bfa6e4bfdbf75b5432eb55d8c",
+        "title": "CORSAIR",
+        "icon": "storage\/brands\/CORSAIRLogo2020_horiz_K.png"
+    },
+    {
+        "id": "c25c66f8ac4fc39070aaa75c4c58c91a",
+        "title": "ATL",
+        "icon": "storage\/brands\/ATL.png"
+    },
+    {
+        "id": "c2f0039b9a0105fc0d3a9c22ea24b1c0",
+        "title": "GOOGLE",
+        "icon": "storage\/brands\/c2f0039b9a0105fc0d3a9c22ea24b1c0_Google.png"
+    },
+    {
+        "id": "c3db4f56cb6281d6fbb415d6bc9d4280",
+        "title": "CENTURY",
+        "icon": "storage\/brands\/c3db4f56cb6281d6fbb415d6bc9d4280_century.png"
+    },
+    {
+        "id": "c527220812961107263390279d008543",
+        "title": "SCRIBE",
+        "icon": "storage\/brands\/scribe.jpg"
+    },
+    {
+        "id": "c5a29bee13a7bbf0b046317157aed577",
+        "title": "URREA",
+        "icon": "storage\/brands\/c5a29bee13a7bbf0b046317157aed577_urrea.png"
+    },
+    {
+        "id": "c5ab9d99b8515b85aad6707694bef204",
+        "title": "COPAMEX",
+        "icon": "storage\/brands\/copamex.jpg"
+    },
+    {
+        "id": "c6000485215c4c3a608495a4c9f5fb0b",
+        "title": "EKCO",
+        "icon": "storage\/brands\/EKCO.png"
+    },
+    {
+        "id": "c6b7276059f5064b236e74f5007f70d6",
+        "title": "ALPHACOOL",
+        "icon": "storage\/brands\/c6b7276059f5064b236e74f5007f70d6_alphacool.png"
+    },
+    {
+        "id": "c74ccad9a0e70c107d169de56107169e",
+        "title": "PEAK TOUR",
+        "icon": "storage\/brands\/peaktour.png"
+    },
+    {
+        "id": "c7deffe80dbd4386f22dfb098f5bc8c4",
+        "title": "ENET",
+        "icon": "storage\/brands\/enet.png"
+    },
+    {
+        "id": "c83c90e4341a89f5c33a806c02654a82",
+        "title": "EXTREME NETWORKS",
+        "icon": "storage\/brands\/extreme1.png"
+    },
+    {
+        "id": "c90d62e05e43e1c4e3ee12343a4f8eb6",
+        "title": "INFOCUS",
+        "icon": "storage\/brands\/infocuslogodae0d619f6seeklogo.com.png"
+    },
+    {
+        "id": "ca21bfce0afe896e415e2d83ca6e94a6",
+        "title": "REMINGTON",
+        "icon": "storage\/brands\/remington.png"
+    },
+    {
+        "id": "cbf44511d041dc6d1dd73cc0c033122c",
+        "title": "IBM",
+        "icon": "storage\/brands\/ibmlogo.png"
+    },
+    {
+        "id": "cd4d3d70bd581bc8939455e4cf254648",
+        "title": "DEEPCOOL",
+        "icon": "storage\/brands\/Deepcoollogoblack.png"
+    },
+    {
+        "id": "d1c19d4e7385158e4df1ee6bf204334c",
+        "title": "WAVESHARE",
+        "icon": "storage\/brands\/waveshare.jpg"
+    },
+    {
+        "id": "d3e2d403847a8f91bd9ad824dd478bb7",
+        "title": "MIKROTIK",
+        "icon": "storage\/brands\/mikrotik.png"
+    },
+    {
+        "id": "d4414c1c5d8fa0b054f76f1ef20308e3",
+        "title": "MAXELL",
+        "icon": "storage\/brands\/maxell.jpg"
+    },
+    {
+        "id": "d45a1586f346c7c31ae68487cb3d4f1c",
+        "title": "AVERY",
+        "icon": "storage\/brands\/avery.png"
+    },
+    {
+        "id": "d7a8455f90853bae9f15b0ac5c0088cb",
+        "title": "PDP",
+        "icon": "storage\/brands\/pdp.jpg"
+    },
+    {
+        "id": "d7bfc720460d75c28ce69ce26d239f9f",
+        "title": "MAE",
+        "icon": "storage\/brands\/mae.gif"
+    },
+    {
+        "id": "d8589a20d5ff2f308381aa7aa75b9a27",
+        "title": "3M",
+        "icon": "storage\/brands\/3mlogo079fb52bc8seeklogo.com.png"
+    },
+    {
+        "id": "d87013b327fd0b888a6d3262fff8c4b7",
+        "title": "TARGUS",
+        "icon": "storage\/brands\/d87013b327fd0b888a6d3262fff8c4b7_targus.png"
+    },
+    {
+        "id": "d8a9f33eed0cb130bd184a9768f5e8d6",
+        "title": "ROMMS",
+        "icon": "storage\/brands\/romms.png"
+    },
+    {
+        "id": "d8bb7d469cc4f5d26b33c0facfcf9179",
+        "title": "HONEYWELL",
+        "icon": "storage\/brands\/honeywell.png"
+    },
+    {
+        "id": "da085cb3e764a3586b704d1336c3e3e9",
+        "title": "TACX",
+        "icon": "storage\/brands\/tacx.png"
+    },
+    {
+        "id": "dbf3f12beb921bdedfbdb6e4346e40d2",
+        "title": "PRETUL",
+        "icon": "storage\/brands\/pretul.png"
+    },
+    {
+        "id": "dd096c9085d6fb58dfd7496ce764c1a8",
+        "title": "LANIX",
+        "icon": "storage\/brands\/dd096c9085d6fb58dfd7496ce764c1a8_lanix.png"
+    },
+    {
+        "id": "ddf0667a490ead5d392b370e557566c7",
+        "title": "LINKSYS",
+        "icon": "storage\/brands\/linksysc.png"
+    },
+    {
+        "id": "debf9d71274d7b154564c11a65ac7eeb",
+        "title": "XEROX",
+        "icon": "storage\/brands\/debf9d71274d7b154564c11a65ac7eeb_XEROX.png"
+    },
+    {
+        "id": "dee65e2771f83c0224d58460c61f9bf0",
+        "title": "BEHRINGER",
+        "icon": "storage\/brands\/BEHRINGER.png"
+    },
+    {
+        "id": "df1570a0cf2b271185023a4c256f43ac",
+        "title": "IMATION",
+        "icon": "storage\/brands\/imation.jpg"
+    },
+    {
+        "id": "df232ecbf882123bd122a01fa04188ee",
+        "title": "PERFECT CHOICE",
+        "icon": "storage\/brands\/perfectchoice.png"
+    },
+    {
+        "id": "df7445f4aa1bd83e953d741451ae41d2",
+        "title": "ENCORE",
+        "icon": "storage\/brands\/images.png"
+    },
+    {
+        "id": "dfcc19dd0f666c5eb7a29d06437040a4",
+        "title": "BIRD TECHNOLOGIES",
+        "icon": "storage\/brands\/dfcc19dd0f666c5eb7a29d06437040a4_BIRDTECHNOLOGIES.png"
+    },
+    {
+        "id": "e095da492befbcdf612c1ee81158b982",
+        "title": "CABLEMOD",
+        "icon": "storage\/brands\/e095da492befbcdf612c1ee81158b982_cablemod.png"
+    },
+    {
+        "id": "e1ba9f65b67c7b305623448ce75b9e39",
+        "title": "GARMIN",
+        "icon": "storage\/brands\/garmin.png"
+    },
+    {
+        "id": "e30eb73982a43b3f3f7bbbc2b307790b",
+        "title": "ALIENWARE",
+        "icon": "storage\/brands\/5d24dcb07e0fd_alienware.png"
+    },
+    {
+        "id": "e44b72a798e67e5faaeca70fe151a629",
+        "title": "ASTRON",
+        "icon": "storage\/brands\/e44b72a798e67e5faaeca70fe151a629_astron.gif"
+    },
+    {
+        "id": "e4615ed0ec37ad37b4d9136092fe5c43",
+        "title": "KAPTON",
+        "icon": "storage\/brands\/KAPTON.png"
+    },
+    {
+        "id": "e680e4e3b658fdae824f08be9d2e48c9",
+        "title": "SOMFY",
+        "icon": "storage\/brands\/somfy.png"
+    },
+    {
+        "id": "e6f0ca5b2af650729eca785094d4b7fa",
+        "title": "KIWO",
+        "icon": "storage\/brands\/kiwo.png"
+    },
+    {
+        "id": "e6fc8ce107f2bdf0955f021a391514ce",
+        "title": "HP",
+        "icon": "storage\/brands\/e6fc8ce107f2bdf0955f021a391514ce_hp.png"
+    },
+    {
+        "id": "e709bb346ebf26dccb94b57ed09ba487",
+        "title": "ALTER",
+        "icon": "storage\/brands\/e709bb346ebf26dccb94b57ed09ba487_alter.jpg"
+    },
+    {
+        "id": "e7bd90bc5cb7e83107a904cb4fbbd7a5",
+        "title": "BINDEN",
+        "icon": "storage\/brands\/binden.png"
+    },
+    {
+        "id": "e8629feac130bde1b4be34fa191e63ce",
+        "title": "ZEBRA",
+        "icon": "storage\/brands\/e8629feac130bde1b4be34fa191e63ce_Zebra_Logo.png"
+    },
+    {
+        "id": "e93d82ea87da2603ee562112caa39a28",
+        "title": "GAMA ITALY",
+        "icon": "storage\/brands\/gama.png"
+    },
+    {
+        "id": "e93dad753c70ccbbd3fc0293720b38c1",
+        "title": "PROLICOM",
+        "icon": "storage\/brands\/e93dad753c70ccbbd3fc0293720b38c1_Prolicom.png"
+    },
+    {
+        "id": "e94cf90cb9d45f8f433521899bc85928",
+        "title": "JBL",
+        "icon": "storage\/brands\/599498ee8b762_jbl.png"
+    },
+    {
+        "id": "eaf80904497f8676c7f9807e4677e761",
+        "title": "VICA",
+        "icon": "storage\/brands\/vica1.png"
+    },
+    {
+        "id": "ecbb2e4d4af4b2309321b3cbf91bed03",
+        "title": "KWORLD",
+        "icon": "storage\/brands\/kworld.jpeg"
+    },
+    {
+        "id": "ecd510389de4c94cf422cba68501e2d2",
+        "title": "IFROGZ",
+        "icon": "storage\/brands\/59f21e74c3fe3_IFROGZ.png"
+    },
+    {
+        "id": "ece6117f0bc60ec824fe5d441abdb288",
+        "title": "PILOT",
+        "icon": "storage\/brands\/pilot.jpeg"
+    },
+    {
+        "id": "ee0cb47ea6ab6dc8852f3ca7d0915252",
+        "title": "RESIDEO",
+        "icon": "storage\/brands\/resideo.png"
+    },
+    {
+        "id": "ee254ca347823cdead3aabf9fca26f72",
+        "title": "CELICA",
+        "icon": "storage\/brands\/celica.jpg"
+    },
+    {
+        "id": "eeeabea3c3c1a2467d7133c8fbe07531",
+        "title": "FOY",
+        "icon": "storage\/brands\/foy.png"
+    },
+    {
+        "id": "ef39be601f7ec5b0ab9479db4c56d1d4",
+        "title": "WARNER BROS",
+        "icon": "storage\/brands\/warnerbros.jpg"
+    },
+    {
+        "id": "efc52daba92b7751c120445d640fb5a8",
+        "title": "JABRA",
+        "icon": "storage\/brands\/682d8575e3ff48b014315531046250a7_jabragn.png"
+    },
+    {
+        "id": "f00388928766bbacf931cf5275b9d9b8",
+        "title": "RCI",
+        "icon": "storage\/brands\/5adfc1ffa8cfd_RCI.png"
+    },
+    {
+        "id": "f05e35fec66241af2b5aab18a5157919",
+        "title": "HYPERLUX",
+        "icon": "storage\/brands\/f05e35fec66241af2b5aab18a5157919_hyperlux.png"
+    },
+    {
+        "id": "f13bc0d57292aeaf88b1d2e32cc5591c",
+        "title": "DERWENT",
+        "icon": "storage\/brands\/derwent.png"
+    },
+    {
+        "id": "f25655b4262cc90d537777e6eed7681a",
+        "title": "GEAR4",
+        "icon": "storage\/brands\/6693f2877ff1f741a2e4ea60c241a97e_gear4.png"
+    },
+    {
+        "id": "f32d34e3d32f2b79a4c9f20129e8665e",
+        "title": "GHIA",
+        "icon": "storage\/brands\/f32d34e3d32f2b79a4c9f20129e8665e_ghia.png"
+    },
+    {
+        "id": "f3b2c1c00cb33f03d9df51a657fb09a6",
+        "title": "RHINO",
+        "icon": "storage\/brands\/rhino.png"
+    },
+    {
+        "id": "f47075c62ab5414af4af104db4f1f71d",
+        "title": "AEROCOOL",
+        "icon": "storage\/brands\/aerocoollogo.jpg"
+    },
+    {
+        "id": "f4e7bd3d764e20e99155479952c6f3a4",
+        "title": "VSSL",
+        "icon": "storage\/brands\/VSSL.png"
+    },
+    {
+        "id": "f583efd4eff6ac7497a913300d857dff",
+        "title": "KRO",
+        "icon": "storage\/brands\/f583efd4eff6ac7497a913300d857dff_kronaline.png"
+    },
+    {
+        "id": "f59e861100ea8133e03183c797d8810e",
+        "title": "STEREN",
+        "icon": "storage\/brands\/steren.jpg"
+    },
+    {
+        "id": "f5aae417913242952f0457fe1adfd4d2",
+        "title": "COOLER MASTER",
+        "icon": "storage\/brands\/f5aae417913242952f0457fe1adfd4d2_coolermaster.png"
+    },
+    {
+        "id": "f6e3790f2e00fe9a0f35887747ec1ccb",
+        "title": "THOMSON",
+        "icon": "storage\/brands\/thomson.png"
+    },
+    {
+        "id": "f745d2028c0fe41059c2c53069cff8c3",
+        "title": "BANDAI NAMCO GAMES",
+        "icon": "storage\/brands\/59c2f5c56f5e8_BandaiNamco.png"
+    },
+    {
+        "id": "f8b1eeb2efa77296eae9fd804e833bd6",
+        "title": "IML",
+        "icon": "storage\/brands\/IML.png"
+    },
+    {
+        "id": "f8e41ae8d6179c63a1aff2c04f587abc",
+        "title": "AVERMEDIA",
+        "icon": "storage\/brands\/avermedia.jpg"
+    },
+    {
+        "id": "f8e98e1595d0df57e55ef5d4242d004f",
+        "title": "X-MEDIA",
+        "icon": "storage\/brands\/f8e98e1595d0df57e55ef5d4242d004f_xmedia.png"
+    },
+    {
+        "id": "f9232ef48e81c8fa4eb9a0cafbe1f13d",
+        "title": "INTEL",
+        "icon": "storage\/brands\/intellogo.png"
+    },
+    {
+        "id": "f976fb2ecf4847ecb507697a8d02ed3d",
+        "title": "ADATA",
+        "icon": "storage\/brands\/f976fb2ecf4847ecb507697a8d02ed3d_ADATA.png"
+    },
+    {
+        "id": "f998fbe99da50afccd4f1d105f4cc578",
+        "title": "SAXXON",
+        "icon": "storage\/brands\/f998fbe99da50afccd4f1d105f4cc578_saxxon.jpg"
+    },
+    {
+        "id": "fa8648bbaf030cf23e4833a82441ecdc",
+        "title": "MEGALUZ",
+        "icon": "storage\/brands\/MEGALUZ.png"
+    },
+    {
+        "id": "fb098e77252e6624baceb1552a1092f2",
+        "title": "CANON",
+        "icon": "storage\/brands\/canonlogof5f382ee57seeklogo.com.png"
+    },
+    {
+        "id": "fb2918e1355a6d24a4addd0c834745ce",
+        "title": "MASTERCHEF",
+        "icon": "storage\/brands\/masterchef.png"
+    },
+    {
+        "id": "fb3b2baacaae1eaea565f0f9f9153c23",
+        "title": "UGREEN",
+        "icon": "storage\/brands\/ugreen.png"
+    },
+    {
+        "id": "fd976f550f84430dc88941effcf786ad",
+        "title": "HONOR",
+        "icon": "storage\/brands\/HONOR.png"
+    },
+    {
+        "id": "fd97b533cb1e680670edf7a52af36c6a",
+        "title": "BOSCH",
+        "icon": "storage\/brands\/fd97b533cb1e680670edf7a52af36c6a_BOSCH.png"
+    },
+    {
+        "id": "fdd04bf8badf5a0f0f8b433a2f0fdce0",
+        "title": "ELO TOUCHSYSTEMS",
+        "icon": "storage\/brands\/elotouchsystems.png"
+    },
+    {
+        "id": "fe8b38e44ecd34fd0d8e084fb90778ed",
+        "title": "TWELVE SOUTH",
+        "icon": "storage\/brands\/twelvesouth.png"
+    }
+]

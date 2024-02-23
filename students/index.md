@@ -45,5 +45,5 @@ Presenciales:
 Todos:
 
 ```
-0224604@up.edu.mx,0216980@up.edu.mx,0216229@up.edu.mx,0229386@up.edu.mx,0228431@up.edu.mx,0224767@up.edu.mx,0225509@up.edu.mx,0220279@up.edu.mx,0225118@up.edu.mx,0234847@up.edu.mx,0225512@up.edu.mx,0224260@up.edu.mx,0260523@up.edu.mx,0225511@up.edu.mx,0218797@up.edu.mx,0227412@up.edu.mx,0213663@up.edu.mx,0224679@up.edu.mx,0224764@up.edu.mx,0224758@up.edu.mx
+0224604@up.edu.mx,0216980@up.edu.mx,0216229@up.edu.mx,0229386@up.edu.mx,0228431@up.edu.mx,0224767@up.edu.mx,0225509@up.edu.mx,0220279@up.edu.mx,0225118@up.edu.mx,0234847@up.edu.mx,0225512@up.edu.mx,0224260@up.edu.mx,0260523@up.edu.mx,0225511@up.edu.mx,0218797@up.edu.mx,0227412@up.edu.mx,0213663@up.edu.mx,0224679@up.edu.mx,0224764@up.edu.mx,0224758@up.edu.mx,0214221@up.edu.mx
 ```
