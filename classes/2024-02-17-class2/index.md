@@ -28,14 +28,19 @@ Class 2
 | 20 | 0224758 | Gutiérrez Maisterrena, Diego       | Diego     | ok (v)     | IIN                     |
 | 21 | 0214221 | Carrillo Contardo, Juan Manuel     | Juanma    | ok         | Nuevo. IIN              |
 
-Nota: nadie se dio cuenta de que la evaluación suma 105%
+Note: nobody noticed the evaluation criteria adds up to 105%.
 
-10 fast fingers
+**Activity**: 10 fast fingers.
 
-Slidev
+Presentation: What is SQL?
 
-Ejemplos de queries con catalog
+Homework: [What is SQL?](what-is-sql.md)
 
----
+Configuration of Mysql DB Source in PyCharm
+-------------------------------------------
 
-parquet
+Open database menu in right side of IDE
+
+![img.png](img.png)
+
+Click
