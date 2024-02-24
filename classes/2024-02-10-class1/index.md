@@ -10,7 +10,7 @@ Asistencia
 |  # | ID      | Nombre                             | A.K.A     | Algo que no sepan de mí                                                           |
 |---:|---------|------------------------------------|-----------|-----------------------------------------------------------------------------------|
 |  1 | 0224604 | Barba Mendoza, Paulina             | Pau       | No me gustan las oreo                                                             |
-|  2 | 0216980 | Díaz Rizo, Edgar Leonardo          |           | x                                                                                 | 
+|  2 | 0216980 | Díaz Rizo, Edgar Leonardo          |           | x (soy capricornio)                                                               | 
 |  3 | 0216229 | Gálvez Miranda, Uma Paola          | Uma       | Nací en el 2000                                                                   | 
 |  4 | 0229386 | García González, Misael            | Misael    | Soy de Celaya                                                                     |
 |  5 | 0228431 | García Raya, Daniela               |           | x                                                                                 |

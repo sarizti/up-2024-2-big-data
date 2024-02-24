@@ -7,7 +7,7 @@ Class 2
 |  # | ID      | Nombre                             | A.K.A     | Asistencia | Qué carrera estudiaste  |
 |---:|---------|------------------------------------|-----------|------------|-------------------------|
 |  1 | 0224604 | Barba Mendoza, Paulina             | Pau       | ok         | Innovación y Diseño IID |
-|  2 | 0216980 | Díaz Rizo, Edgar Leonardo          |           |            |                         | 
+|  2 | 0216980 | Díaz Rizo, Edgar Leonardo          |           |            | IIN                     | 
 |  3 | 0216229 | Gálvez Miranda, Uma Paola          | Uma       | ok         | Industrial IIN          | 
 |  4 | 0229386 | García González, Misael            | Misael    |            |                         |
 |  5 | 0228431 | García Raya, Daniela               | Dani      | ok         | Ballet. IID             |
@@ -43,4 +43,23 @@ Open database menu in right side of IDE
 
 ![img.png](img.png)
 
-Click
+Click Add Data Source, MySql
+
+![img_1.png](img_1.png)
+
+Enter this information:
+
+- host: `35.193.209.4`
+- user: `up`
+- password: `secret`
+- database: `up_2024_2_big_data`
+
+![img_2.png](img_2.png)
+
+A console opens. Write this command and see if it runs successfully:
+
+```sql
+SELECT 'hello world';
+```
+
+![img_3.png](img_3.png)

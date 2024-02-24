@@ -1,5 +1,3 @@
-What Is SQL
-===========
 What is SQL
 ===========
 
