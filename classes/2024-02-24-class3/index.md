@@ -87,7 +87,7 @@ ALTER TABLE articles_tmp DROP old_price;
 DROP TABLE articles_tmp;
 ```
 
-Pendientes
-----------
+Action Items
+------------
 
-Agregar a Juanma a los htpasswd de s.arizti.md
+Add Juanma to the `htpasswd` users of `s.arizti.md`
