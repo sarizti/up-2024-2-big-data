@@ -6,7 +6,7 @@ import json
 import mysql.connector
 
 con = mysql.connector.connect(
-  #host="2806:2f0:5021:c949:8014:8a98:f70c:88ae",
+  #host="2806:2f0:5021:c949:d304:719d:3e4b:7af5",
   #user="uprofe",
   #password="uprofe",
   host="35.193.209.4",
