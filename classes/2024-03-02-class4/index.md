@@ -28,6 +28,98 @@ Class 4
 | 20 | 0224758 | Gutiérrez Maisterrena, Diego       | Diego     | (    )     |                |
 | 21 | 0214221 | Carrillo Contardo, Juan Manuel     | Juanma    | (x   )     | Guadalajara    |
 
-Recap
+Recap: SELECT, CRATE TABLE, INSERT, UPDATE, DELETE. ALTER TABLE.
 
-polo norte, bat y pelota
+```sql
+SELECT 'hello world';
+
+SELECT * FROM articles_tmp;
+
+SELECT id, title, stock
+FROM articles_tmp
+ORDER BY stock DESC, title
+LIMIT 100;
+
+CREATE TABLE articles_tmp (
+    id CHAR(32) PRIMARY KEY,
+    title VARCHAR(255),
+    sku VARCHAR(255),
+    price DOUBLE,
+    -- old_price DOUBLE,
+    stock INT,
+    created_at DATE,
+    pic VARCHAR(128),
+    manufacturer_id CHAR(32),
+    relevance DOUBLE
+);
+
+INSERT INTO articles_tmp (id, title, sku, price, stock, created_at, pic, manufacturer_id, relevance)
+VALUES (
+    '003fbe72446c02844d35efc81e267ac3',
+    'Laptop HP 240 G8 14" HD, Intel Celeron N4120 1.10GHz, 8GB, 1TB HDD, Windows 11 Home 64-bit, Español, Negro',
+    '6P146LA',
+    7719,
+    6,
+    '2022-07-29',
+    'CP-HP-6P146LA-812ac4.jpg',
+    'e6fc8ce107f2bdf0955f021a391514ce',
+    0.448581
+);
+
+UPDATE articles_tmp SET stock=stock-1 WHERE id='003fbe72446c02844d35efc81e267ac3';
+
+DELETE FROM articles_tmp WHERE id='003fbe72446c02844d35efc81e267ac3';
+
+ALTER TABLE articles_tmp ADD old_price DOUBLE AFTER price;
+UPDATE articles_tmp SET old_price=price;
+ALTER TABLE articles_tmp DROP old_price;
+DROP TABLE articles_tmp;
+
+-- ----------------------------------------
+
+SELECT * FROM articles;
+
+SELECT * FROM manufacturers;
+
+SELECT * FROM manufacturers WHERE title LIKE 'startech%';
+SELECT * FROM manufacturers WHERE title LIKE '%.com';
+SELECT * FROM manufacturers WHERE title LIKE '%hp%';
+
+SELECT * FROM manufacturers WHERE title = 'hp';
+SELECT * FROM articles WHERE manufacturer_id = 'e6fc8ce107f2bdf0955f021a391514ce';
+
+SELECT articles.*
+FROM articles
+JOIN manufacturers on articles.manufacturer_id=manufacturers.id
+WHERE manufacturers.title = 'hp';
+
+SELECT articles.id, articles.title, manufacturers.title, articles.price
+FROM articles
+JOIN manufacturers ON articles.manufacturer_id=manufacturers.id;
+
+SELECT * FROM categories WHERE title='Laptops';
+SELECT article_id FROM articles_categories WHERE category_id='cccb0dc73359070a4269f780fe93ff53';
+SELECT * FROM articles WHERE id in(
+    'd2af638d02788c24b677468537fef37e',
+    'b4107a9752290677bc958f5d4cd64632',
+    '8db70f39592ce2b98d035c438e1a6d70',
+    '35f1f3b66db041d5aeec4429b30f0fa0',
+    '7491307654d0fcfcb37dc1539e2386a1',
+    'c11c186d006885bb936a50c56ca4ace0'
+    -- ...
+);
+
+SELECT a.id, a.title, c.title
+FROM categories AS c
+INNER JOIN articles_categories AS ac ON c.id = ac.category_id
+INNER JOIN articles AS a ON ac.article_id = a.id
+ORDER BY a.id;
+
+SELECT a.id, a.title, c.title
+FROM articles AS a
+left JOIN articles_categories AS ac ON a.id = ac.article_id
+INNER JOIN categories AS c ON ac.category_id = c.id
+ORDER BY a.id;
+```
+
+Continue to explore Leetcode.
