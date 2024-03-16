@@ -6,27 +6,27 @@ Class 5
 
 |  # | ID      | Nombre                             | A.K.A     | Asistencia | Libro Favorito                   |
 |---:|---------|------------------------------------|-----------|------------|----------------------------------|
-|  1 | 0224604 | Barba Mendoza, Paulina             | Pau       |            | En Llamas, Susan                 |
+|  1 | 0224604 | Barba Mendoza, Paulina             | Pau       | x          | En Llamas, Susan                 |
 |  2 | 0216980 | Díaz Rizo, Edgar Leonardo          | Leo       |            |                                  | 
-|  3 | 0216229 | Gálvez Miranda, Uma Paola          | Uma       |            | (ninguno)                        | 
-|  4 | 0229386 | García González, Misael            | Misael    |            | Game of Thrones                  |
-|  5 | 0228431 | García Raya, Daniela               | Dani      |            | La Travesía del Viajero del Alba |
-|  6 | 0224767 | González Polit, Jorge Andrés       | Polit     |            | Crimen y Castigo                 | 
-|  7 | 0225509 | González Ramos, Natanael           | Nata      |            | Hábitos Atómicos                 | 
-|  8 | 0220279 | Leos Luna, Zabdy Elizabeth         | Zabdy     |            | Leonora, Elena Poniatouska       |
-|  9 | 0225118 | Macias Lara, Hector                | Héctor    |            | Never Split the Difference, FBI  |
-| 10 | 0234847 | De La Cruz Orozco, Marcos Gerardo  | Marcos    |            | Sherlock Holmes                  |
+|  3 | 0216229 | Gálvez Miranda, Uma Paola          | Uma       | x          | Los 5 Lenguajes del Amor         | 
+|  4 | 0229386 | García González, Misael            | Misael    | x          | Game of Thrones                  |
+|  5 | 0228431 | García Raya, Daniela               | Dani      | x          | La Travesía del Viajero del Alba |
+|  6 | 0224767 | González Polit, Jorge Andrés       | Polit     | x          | Crimen y Castigo                 | 
+|  7 | 0225509 | González Ramos, Natanael           | Nata      | x          | Hábitos Atómicos                 | 
+|  8 | 0220279 | Leos Luna, Zabdy Elizabeth         | Zabdy     | x          | Leonora, Elena Poniatouska       |
+|  9 | 0225118 | Macias Lara, Hector                | Héctor    | x          | Never Split the Difference, FBI  |
+| 10 | 0234847 | De La Cruz Orozco, Marcos Gerardo  | Marcos    | x          | Sherlock Holmes                  |
 | 11 | 0225512 | Mendoza Guajardo, Daniel           | Mendoza   |            |                                  |
-| 12 | 0224260 | Mercado Coello, Alejandro          | Alex      |            | Basta de Historias, Oppenheimer  | 
-| 13 | 0260523 | Núñez Favela, José Andrés          | Andrés    |            | Outliers, Max                    |
-| 14 | 0225511 | Ochoa Garciarce, Myriam            | Myriam    |            | El Rey de Hierro                 | 
-| 15 | 0218797 | Rodríguez Aquino, Schedar Emilio   | Schedar   |            | Harry Potter y la P. Filosofal   | 
-| 16 | 0227412 | Sánchez Castillo, Santiago Mariano | Santiago  |            | Los Cuatro Acuerdos              |
-| 17 | 0213663 | Solano Jaime, Eduardo              | Eduardo   |            | The Ocean at the end of the Lake |
-| 18 | 0224679 | Castiello Gonzalez, Rodrigo        | Castiello |            | Inferno, Dan Brown               |
-| 19 | 0224764 | Blanchet Ramírez, Bernardo         | Bernardo  |            | Memorias de Hadriano             |
-| 20 | 0224758 | Gutiérrez Maisterrena, Diego       | Diego     |            | El Monje que Vendió su Ferrari   |
-| 21 | 0214221 | Carrillo Contardo, Juan Manuel     | Juanma    |            | La Tormenta de Espadas (GoT 3)   |
+| 12 | 0224260 | Mercado Coello, Alejandro          | Alex      | x          | Basta de Historias, Oppenheimer  | 
+| 13 | 0260523 | Núñez Favela, José Andrés          | Andrés    | x          | Outliers, Max                    |
+| 14 | 0225511 | Ochoa Garciarce, Myriam            | Myriam    | x          | El Rey de Hierro                 | 
+| 15 | 0218797 | Rodríguez Aquino, Schedar Emilio   | Schedar   | x          | Harry Potter y la P. Filosofal   | 
+| 16 | 0227412 | Sánchez Castillo, Santiago Mariano | Santiago  | x          | Los Cuatro Acuerdos              |
+| 17 | 0213663 | Solano Jaime, Eduardo              | Eduardo   | x          | The Ocean at the end of the Lake |
+| 18 | 0224679 | Castiello Gonzalez, Rodrigo        | Castiello | x          | Inferno, Dan Brown               |
+| 19 | 0224764 | Blanchet Ramírez, Bernardo         | Bernardo  | x          | Memorias de Hadriano             |
+| 20 | 0224758 | Gutiérrez Maisterrena, Diego       | Diego     | x          | El Monje que Vendió su Ferrari   |
+| 21 | 0214221 | Carrillo Contardo, Juan Manuel     | Juanma    | x          | La Tormenta de Espadas (GoT 3)   |
 
 Acertijos:
 
