@@ -1,6 +1,6 @@
 <script setup>
-import {data} from './classes.data.js';
-
+import {data} from './classes.data.js'; 
+import {withBase} from "vitepress";
 </script>
 Info Para Clases
 ================
@@ -16,6 +16,6 @@ Classes
 
 <ul>
 <li v-for="cl of data">
-<a :href="`/classes${cl.url}`">{{cl.frontmatter.title}}</a>
+<a :href="withBase(cl.url)">{{cl.frontmatter.title}}</a>
 </li>
 </ul>
