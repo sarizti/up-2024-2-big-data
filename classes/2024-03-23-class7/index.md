@@ -56,6 +56,8 @@ WHERE m.title=%s
 """
 cur.execute(query, 'HP')
 
+pd.read_sql()
+
 cur.close()
 con.close()
 ```
