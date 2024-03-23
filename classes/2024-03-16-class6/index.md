@@ -82,10 +82,10 @@ Retos:
 
 Enviar a Github como tarea. Formato:
 
-Productos más caros de cada marca
----------------------------------
+Most Expensive Products By Brand
+--------------------------------
 
-Mi estrategia fue hacer join de tal y cual tipo...
+My strategy was to use JOIN in this or that way...
 
 ```sql
 SELECT * FROM manufacturers -- ...

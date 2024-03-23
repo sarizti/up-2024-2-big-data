@@ -1,6 +1,3 @@
----
-title: Class 3
----
 Class 3
 =======
 
