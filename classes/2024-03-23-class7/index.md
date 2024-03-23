@@ -26,8 +26,12 @@ Class 7
 | 21 | 0214221 | Carrillo Contardo, Juan Manuel     | Juanma    | l          |       |
 
 Google Forms
+------------
+
+<https://docs.google.com/forms/d/1rzE7n55jWbN7k28XxiViXujXweAtNbs0kGrtoJ7p_Y0/edit>
 
 Hacer juntos los retos
+----------------------
 
 Python
 ------
