@@ -1,8 +1,9 @@
 import {createContentLoader, ContentData} from "vitepress";
 
-function transformMap({src, frontmatter}: ContentData) {
+function transformMap({src, frontmatter, url}: ContentData) {
     return {
         frontmatter,
+        url,
         title: frontmatter.title || src?.match(/^(.+)\n===+$/m)?.[1].trim()
     };
 }

@@ -16,7 +16,7 @@ Class 5
 |  8 | 0220279 | Leos Luna, Zabdy Elizabeth         | Zabdy     | x          | Leonora, Elena Poniatouska       |
 |  9 | 0225118 | Macias Lara, Hector                | Héctor    | x          | Never Split the Difference, FBI  |
 | 10 | 0234847 | De La Cruz Orozco, Marcos Gerardo  | Marcos    | x          | Sherlock Holmes                  |
-| 11 | 0225512 | Mendoza Guajardo, Daniel           | Mendoza   |            |                                  |
+| 11 | 0225512 | Mendoza Guajardo, Daniel           | Mendoza   |            | La Biblia, Dios                  |
 | 12 | 0224260 | Mercado Coello, Alejandro          | Alex      | x          | Basta de Historias, Oppenheimer  | 
 | 13 | 0260523 | Núñez Favela, José Andrés          | Andrés    | x          | Outliers, Max                    |
 | 14 | 0225511 | Ochoa Garciarce, Myriam            | Myriam    | x          | El Rey de Hierro                 | 
