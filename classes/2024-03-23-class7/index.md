@@ -24,3 +24,34 @@ Class 7
 | 19 | 0224764 | Blanchet Ramírez, Bernardo         | Bernardo  | l          |       |
 | 20 | 0224758 | Gutiérrez Maisterrena, Diego       | Diego     | l          |       |
 | 21 | 0214221 | Carrillo Contardo, Juan Manuel     | Juanma    | l          |       |
+
+Google Forms
+
+Hacer juntos los retos
+
+Python
+------
+
+```py
+con = mysql.connector.connect()
+cur = con.cursor()
+
+query = """
+SELECT m.title, count(a.id) AS art_count
+FROM articles a
+JOIN manufacturers m ON m.id=a.manufacturer_id
+GROUP BY m.id
+"""
+cur.execute(query)
+
+query = """
+SELECT m.title, count(a.id) AS art_count
+FROM articles a
+JOIN manufacturers m ON m.id=a.manufacturer_id
+WHERE m.title=%s
+"""
+cur.execute(query, 'HP')
+
+cur.close()
+con.close()
+```

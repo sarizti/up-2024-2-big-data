@@ -9,6 +9,10 @@ numpy = "*"
 matplotlib = "*"
 seaborn = "*"
 pyyaml = "*"
+jupyter = "*"
+gdown = "*"
+django = "*"
+mysql-connector-python = "*"
 
 [dev-packages]
 
