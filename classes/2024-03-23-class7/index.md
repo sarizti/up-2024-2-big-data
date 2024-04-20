@@ -4,20 +4,20 @@ Class 7
 |  # | ID      | Nombre                             | A.K.A     | Asistencia | Hobby            |
 |---:|---------|------------------------------------|-----------|------------|------------------|
 |  1 | 0224604 | Barba Mendoza, Paulina             | Pau       |            | Patinar en hielo |
-|  2 | 0216980 | Díaz Rizo, Edgar Leonardo          | Leo       | l          | Nadar            | 
-|  3 | 0216229 | Gálvez Miranda, Uma Paola          | Uma       | l          | Bailar           | 
+|  2 | 0216980 | Díaz Rizo, Edgar Leonardo          | Leo       | l          | Nadar            |
+|  3 | 0216229 | Gálvez Miranda, Uma Paola          | Uma       | l          | Bailar           |
 |  4 | 0229386 | García González, Misael            | Misael    | l          | Futbol           |
 |  5 | 0228431 | García Raya, Daniela               | Dani      | l          | Pilates          |
-|  6 | 0224767 | González Polit, Jorge Andrés       | Polit     | l          | (t) Lrmar Legos  | 
-|  7 | 0225509 | González Ramos, Natanael           | Nata      | l          | Componer música  | 
+|  6 | 0224767 | González Polit, Jorge Andrés       | Polit     | l          | (t) Lrmar Legos  |
+|  7 | 0225509 | González Ramos, Natanael           | Nata      | l          | Componer música  |
 |  8 | 0220279 | Leos Luna, Zabdy Elizabeth         | Zabdy     | l          | Tocar piano      |
 |  9 | 0225118 | Macias Lara, Hector                | Héctor    |            | Jugar basket     |
 | 10 | 0234847 | De La Cruz Orozco, Marcos Gerardo  | Marcos    | l          | Ir al cine       |
 | 11 | 0225512 | Mendoza Guajardo, Daniel           | Mendoza   | l          | Escuchar música  |
-| 12 | 0224260 | Mercado Coello, Alejandro          | Alex      |            | Hiking           | 
+| 12 | 0224260 | Mercado Coello, Alejandro          | Alex      |            | Hiking           |
 | 13 | 0260523 | Núñez Favela, José Andrés          | Andrés    | l          |                  |
-| 14 | 0225511 | Ochoa Garciarce, Myriam            | Myriam    | l          | Tejer            | 
-| 15 | 0218797 | Rodríguez Aquino, Schedar Emilio   | Schedar   | l          |                  | 
+| 14 | 0225511 | Ochoa Garciarce, Myriam            | Myriam    | l          | Tejer            |
+| 15 | 0218797 | Rodríguez Aquino, Schedar Emilio   | Schedar   | l          |                  |
 | 16 | 0227412 | Sánchez Castillo, Santiago Mariano | Santiago  |            | Ir al estadio    |
 | 17 | 0213663 | Solano Jaime, Eduardo              | Eduardo   | l          |                  |
 | 18 | 0224679 | Castiello Gonzalez, Rodrigo        | Castiello | l          | Ir al estadio    |

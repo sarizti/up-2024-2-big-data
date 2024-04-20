@@ -13,6 +13,7 @@ jupyter = "*"
 gdown = "*"
 django = "*"
 mysql-connector-python = "*"
+sqlalchemy = "*"
 
 [dev-packages]
 
