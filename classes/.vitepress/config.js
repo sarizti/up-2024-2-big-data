@@ -1,4 +1,6 @@
-export default {
+import {withMermaid} from "vitepress-plugin-mermaid";
+
+export default withMermaid({
   // site-level options
   title: 'UP Big Data',
   description: 'Universidad Panamericana',
@@ -7,4 +9,4 @@ export default {
   themeConfig: {
     // theme-level options
   }
-}
+})
