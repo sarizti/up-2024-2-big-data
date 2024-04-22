@@ -64,7 +64,7 @@ DROP TABLE IF EXISTS quizzes;
 CREATE TABLE quizzes (
     id INT PRIMARY KEY AUTO_INCREMENT,
     title VARCHAR(64) NOT NULL,
-    description VARCHAR(255),
+    description VARCHAR(256),
     created_at TIMESTAMP NOT NULL DEFAULT current_timestamp,
     updated_at TIMESTAMP NOT NULL DEFAULT current_timestamp ON UPDATE current_timestamp
 );
@@ -403,6 +403,32 @@ INSERT INTO attendance (class_id, student_id, status) VALUES
 
 Queries
 -------
+
+### Student Attendance
+
+All attendances to all classes of a single student:
+
+```sql
+SELECT
+    s.id,
+    s.aka,
+    concat(c.class_date, ' (', c.id, ')') 'cl',
+    a.status,
+    coalesce(c.question_of_the_day, '') 'q',
+    coalesce(a.answer_of_the_day, '') 'ans'
+FROM attendance a
+JOIN classes c on c.id = a.class_id
+JOIN students s on s.id = a.student_id
+WHERE 1
+-- AND s.aka = %(aka)s
+AND s.id = '0224260';
+```
+
+### Quiz Result
+
+Quiz responses of a single student
+
+
 
 Diagram
 -------
