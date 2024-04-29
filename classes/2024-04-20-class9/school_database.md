@@ -428,7 +428,36 @@ AND s.id = '0224260';
 
 Quiz responses of a single student
 
+```sql
+SELECT
+    q.question,
+    r.answer_id,
+    coalesce(a.answer, r.answer_text) AS response,
+    a.correct
+FROM quiz_responses r
+JOIN students AS s ON s.id=r.student_id
+JOIN quiz_questions AS q ON r.question_id=q.id
+JOIN quizzes AS t ON t.id=q.quiz_id
+LEFT JOIN quiz_answers AS a ON a.id=r.answer_id
+WHERE student_id='0105123'
+  AND t.id=1;
+```
 
+Attendance of all students for a particular class
+
+```sql
+SELECT
+    c.id,
+    c.class_date,
+    s.full_name,
+    s.aka,
+    a.status,
+    a.answer_of_the_day
+FROM classes AS c
+LEFT JOIN attendance AS a ON a.class_id=c.id
+LEFT JOIN students AS s ON a.student_id=s.id
+WHERE c.id=7;
+```
 
 Diagram
 -------

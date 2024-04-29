@@ -8,7 +8,7 @@ Class 9
 |  3 | 0216229 | Gálvez Miranda, Uma Paola          | Uma       | present    | Selena Gómez     |
 |  4 | 0229386 | García González, Misael            | Misael    | present    | Pitbull          |
 |  5 | 0228431 | García Raya, Daniela               | Dani      | present    | Finneas          |
-|  6 | 0224767 | González Polit, Jorge Andrés       | Polit     |            |                  |
+|  6 | 0224767 | González Polit, Jorge Andrés       | Polit     | late       | Imagine Dragons  |
 |  7 | 0225509 | González Ramos, Natanael           | Nata      |            |                  |
 |  8 | 0220279 | Leos Luna, Zabdy Elizabeth         | Zabdy     |            |                  |
 |  9 | 0225118 | Macias Lara, Hector                | Héctor    | present    | The Weekend      |
@@ -57,4 +57,4 @@ create user '0214221' identified by '0214221'; create database up_0214221; grant
 ```
 :::
 
-Aquí estará mi versión de[l](school_database.md) ejercicio.
+Aquí está [mi versión del ejercicio](school_database.md).
