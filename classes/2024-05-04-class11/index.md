@@ -25,4 +25,20 @@ Class 11
 | 20 | 0224758 | Gutiérrez Maisterrena, Diego       | Diego     | presencial | Agua de horchata de fresa de tortas Toño |
 | 21 | 0214221 | Carrillo Contardo, Juan Manuel     | Juanma    |            | Cerveza artesanal                        |
 
-<iframe src="https://drive.google.com/file/d/1ZjiVACIub0F7DOWsj-fQYe-vKpeVQTYi/preview" width="640" height="480" allow="autoplay"></iframe>
+Class Recording
+---------------
+
+<iframe
+    src="https://drive.google.com/file/d/1ZjiVACIub0F7DOWsj-fQYe-vKpeVQTYi/preview"
+    scrolling="no"
+    frameborder="0"
+    type="text/html"
+    style="
+      overflow:hidden;
+      width: 100%;
+    "
+    height="387"
+    webkitallowfullscreen
+    mozallowfullscreen
+    allowfullscreen
+/>
