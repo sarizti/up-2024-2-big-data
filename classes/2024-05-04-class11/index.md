@@ -24,3 +24,5 @@ Class 11
 | 19 | 0224764 | Blanchet Ramírez, Bernardo         | Bernardo  |            | Cerveza                                  |
 | 20 | 0224758 | Gutiérrez Maisterrena, Diego       | Diego     | presencial | Agua de horchata de fresa de tortas Toño |
 | 21 | 0214221 | Carrillo Contardo, Juan Manuel     | Juanma    |            | Cerveza artesanal                        |
+
+<iframe src="https://drive.google.com/file/d/1ZjiVACIub0F7DOWsj-fQYe-vKpeVQTYi/preview" width="640" height="480" allow="autoplay"></iframe>
