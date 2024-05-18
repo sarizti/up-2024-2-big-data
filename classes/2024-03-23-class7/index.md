@@ -22,7 +22,7 @@ Class 7
 | 17 | 0213663 | Solano Jaime, Eduardo              | Eduardo   | l          |                  |
 | 18 | 0224679 | Castiello Gonzalez, Rodrigo        | Castiello | l          | Ir al estadio    |
 | 19 | 0224764 | Blanchet Ramírez, Bernardo         | Bernardo  | l          | Hiking           |
-| 20 | 0224758 | Gutiérrez Maisterrena, Diego       | Diego     | l          |                  |
+| 20 | 0224758 | Gutiérrez Maisterrena, Diego       | Diego     | absent     | Jugar futbol     |
 | 21 | 0214221 | Carrillo Contardo, Juan Manuel     | Juanma    | l          | Correr           |
 
 Google Forms

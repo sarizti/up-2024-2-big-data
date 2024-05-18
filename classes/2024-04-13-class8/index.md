@@ -22,7 +22,7 @@ Class 8
 | 17 | 0213663 | Solano Jaime, Eduardo              | Eduardo   | ok         |                                 |
 | 18 | 0224679 | Castiello Gonzalez, Rodrigo        | Castiello | ok         |                                 |
 | 19 | 0224764 | Blanchet Ramírez, Bernardo         | Bernardo  | ok         |                                 |
-| 20 | 0224758 | Gutiérrez Maisterrena, Diego       | Diego     |            |                                 |
+| 20 | 0224758 | Gutiérrez Maisterrena, Diego       | Diego     | late       |                                 |
 | 21 | 0214221 | Carrillo Contardo, Juan Manuel     | Juanma    | ok         |                                 |
 
 Video Jim Kwik

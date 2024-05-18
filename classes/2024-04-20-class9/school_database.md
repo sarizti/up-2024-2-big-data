@@ -286,7 +286,7 @@ INSERT INTO attendance (class_id, student_id, status, answer_of_the_day) VALUES
 (3, '0213663', 'virtual', 'morado'),
 (3, '0224679', 'present', 'green'),
 (3, '0224764', 'present', 'blue'),
-(3, '0224758', 'absent', NULL),
+(3, '0224758', 'present', 'blue'),
 (3, '0214221', 'present', 'green');
 INSERT INTO attendance (class_id, student_id, status, answer_of_the_day) VALUES
 (4, '0224604', 'present', 'Guadalajara'),
@@ -308,7 +308,7 @@ INSERT INTO attendance (class_id, student_id, status, answer_of_the_day) VALUES
 (4, '0213663', 'present', 'Aguascalientes'),
 (4, '0224679', 'present', 'Guadalajara'),
 (4, '0224764', 'present', 'Guadalajara'),
-(4, '0224758', 'absent', NULL),
+(4, '0224758', 'absent', 'Guadalajara'),
 (4, '0214221', 'present', 'Guadalajara');
 INSERT INTO attendance (class_id, student_id, status, answer_of_the_day) VALUES
 (5, '0224604', 'present', 'En Llamas, Susan'),
@@ -374,7 +374,7 @@ INSERT INTO attendance (class_id, student_id, status, answer_of_the_day) VALUES
 (7, '0213663', 'absent', NULL),
 (7, '0224679', 'present', 'Ir al estadio'),
 (7, '0224764', 'present', 'Hiking'),
-(7, '0224758', 'absent', NULL),
+(7, '0224758', 'absent', 'Jugar futbol'),
 (7, '0214221', 'present', 'Correr');
 INSERT INTO attendance (class_id, student_id, status) VALUES
 (8, '0224604', 'present'),
@@ -396,7 +396,7 @@ INSERT INTO attendance (class_id, student_id, status) VALUES
 (8, '0213663', 'present'),
 (8, '0224679', 'present'),
 (8, '0224764', 'present'),
-(8, '0224758', 'absent'),
+(8, '0224758', 'late'),
 (8, '0214221', 'present');
 ```
 :::

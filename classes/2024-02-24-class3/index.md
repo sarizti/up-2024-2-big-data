@@ -22,7 +22,7 @@ Class 3
 | 17 | 0213663 | Solano Jaime, Eduardo              | Eduardo   | x(v)       | morado           |
 | 18 | 0224679 | Castiello Gonzalez, Rodrigo        | Castiello | x          | green            |
 | 19 | 0224764 | Blanchet Ramírez, Bernardo         | Bernardo  | x          | blue             |
-| 20 | 0224758 | Gutiérrez Maisterrena, Diego       | Diego     |            |                  |
+| 20 | 0224758 | Gutiérrez Maisterrena, Diego       | Diego     | x          | blue             |
 | 21 | 0214221 | Carrillo Contardo, Juan Manuel     | Juanma    | x          | green            |
 
 Recap: git, pycharm, leetcode.

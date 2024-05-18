@@ -22,7 +22,7 @@ Class 4
 | 17 | 0213663 | Solano Jaime, Eduardo              | Eduardo   | (x(v))     | Aguascalientes |
 | 18 | 0224679 | Castiello Gonzalez, Rodrigo        | Castiello | (x   )     | Guadalajara    |
 | 19 | 0224764 | Blanchet Ramírez, Bernardo         | Bernardo  | (x   )     | Guadalajara    |
-| 20 | 0224758 | Gutiérrez Maisterrena, Diego       | Diego     | (    )     |                |
+| 20 | 0224758 | Gutiérrez Maisterrena, Diego       | Diego     | (falta)    | Guadalajara    |
 | 21 | 0214221 | Carrillo Contardo, Juan Manuel     | Juanma    | (x   )     | Guadalajara    |
 
 Recap: SELECT, CRATE TABLE, INSERT, UPDATE, DELETE. ALTER TABLE.
