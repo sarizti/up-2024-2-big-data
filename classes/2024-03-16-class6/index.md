@@ -91,11 +91,11 @@ My strategy was to use JOIN in this or that way...
 SELECT * FROM manufacturers -- ...
 ```
 
-| id                                | title      |
-|-----------------------------------|------------|
-| 0154761b1c93a51bff3d20a0d53c00ab | ARUBA      |
-| 01d2f61fa66001f438aa2a65cb0aa9e5 | V7         |
-| 02c8fe42d2760f837ac115c0082f776b | IMOU       |
+| id                               | title |
+|----------------------------------|-------|
+| 0154761b1c93a51bff3d20a0d53c00ab | ARUBA |
+| 01d2f61fa66001f438aa2a65cb0aa9e5 | V7    |
+| 02c8fe42d2760f837ac115c0082f776b | IMOU  |
 
 :::tip
 Copy the result from PyCharm and ask ChatGPT to format as a markdown table

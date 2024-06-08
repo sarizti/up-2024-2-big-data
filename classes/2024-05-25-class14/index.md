@@ -24,3 +24,21 @@ Class 14
 | 19 | 0224764 | Blanchet Ramírez, Bernardo         | Bernardo  |            |                     |
 | 20 | 0224758 | Gutiérrez Maisterrena, Diego       | Diego     |            | Supervelocidad      |
 | 21 | 0214221 | Carrillo Contardo, Juan Manuel     | Juanma    |            | Volar               |
+
+Class Recording
+---------------
+
+<iframe
+    src="https://drive.google.com/file/d/1YNO1lgFpgQ4nxb_selPKt2EnL1p8IRP2/preview"
+    scrolling="no"
+    frameborder="0"
+    type="text/html"
+    style="
+      overflow:hidden;
+      width: 100%;
+    "
+    height="387"
+    webkitallowfullscreen
+    mozallowfullscreen
+    allowfullscreen
+/>
