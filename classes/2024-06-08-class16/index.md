@@ -29,6 +29,9 @@ Dinámica
 --------
 
 - Realiza el quiz de 2 de tus compañeros
+    - Si estás en el salón, muévete al lugar de uno de tus compañeros para realizar el quiz ahí
+    - Si estás en casa, clona el repositorio de tu compañero, ábrelo en pycharm, instala las
+      dependencias, ejecuta django, y resuelve el test.
 - Evalúa a tu compañero
 - Evalúa a los 2 compañeros que hicieron tu quiz
 - Llena este [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSc2mkoaC55BOcTqDkM9ZZZSU-Bs0DjiClbWOE13Z1O6Cf50Hw/viewform?usp=sf_link)
