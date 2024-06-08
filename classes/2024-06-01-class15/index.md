@@ -8,7 +8,7 @@ Class 15
 |  3 | 0216229 | Gálvez Miranda, Uma Paola          | Uma       |            | Lasaña              |
 |  4 | 0229386 | García González, Misael            | Misael    |            | Tacos de pastor     |
 |  5 | 0228431 | García Raya, Daniela               | Dani      |            | Pasta Alfredo       |
-|  6 | 0224767 | González Polit, Jorge Andrés       | Polit     |            |                     |
+|  6 | 0224767 | González Polit, Jorge Andrés       | Polit     | late       | Bife                |
 |  7 | 0225509 | González Ramos, Natanael           | Nata      |            | Espagueti Carbonara |
 |  8 | 0220279 | Leos Luna, Zabdy Elizabeth         | Zabdy     |            | Ramen               |
 |  9 | 0225118 | Macias Lara, Hector                | Héctor    |            | Hamburguesas        |
