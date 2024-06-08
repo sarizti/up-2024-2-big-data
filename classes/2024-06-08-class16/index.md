@@ -35,3 +35,47 @@ Dinámica
 - Evalúa a tu compañero
 - Evalúa a los 2 compañeros que hicieron tu quiz
 - Llena este [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSc2mkoaC55BOcTqDkM9ZZZSU-Bs0DjiClbWOE13Z1O6Cf50Hw/viewform?usp=sf_link)
+
+| Quiz De                            | Alumno 1                           | Alumno 2                           |
+|:-----------------------------------|:-----------------------------------|:-----------------------------------|
+| Mercado Coello, Alejandro          | Gutiérrez Maisterrena, Diego       | Ochoa Garciarce, Myriam            |
+| González Ramos, Natanael           | Mercado Coello, Alejandro          | Gutiérrez Maisterrena, Diego       |
+| Sánchez Castillo, Santiago Mariano | González Ramos, Natanael           | Mercado Coello, Alejandro          |
+| Macias Lara, Hector                | Sánchez Castillo, Santiago Mariano | González Ramos, Natanael           |
+| Díaz Rizo, Edgar Leonardo          | Macias Lara, Hector                | Sánchez Castillo, Santiago Mariano |
+| Rodríguez Aquino, Schedar Emilio   | Díaz Rizo, Edgar Leonardo          | Macias Lara, Hector                |
+| Solano Jaime, Eduardo              | Rodríguez Aquino, Schedar Emilio   | Díaz Rizo, Edgar Leonardo          |
+| González Polit, Jorge Andrés       | Solano Jaime, Eduardo              | Rodríguez Aquino, Schedar Emilio   |
+| Carrillo Contardo, Juan Manuel     | González Polit, Jorge Andrés       | Solano Jaime, Eduardo              |
+| García Raya, Daniela               | Carrillo Contardo, Juan Manuel     | González Polit, Jorge Andrés       |
+| Leos Luna, Zabdy Elizabeth         | García Raya, Daniela               | Carrillo Contardo, Juan Manuel     |
+| Gálvez Miranda, Uma Paola          | Leos Luna, Zabdy Elizabeth         | García Raya, Daniela               |
+| Núñez Favela, José Andrés          | Gálvez Miranda, Uma Paola          | Leos Luna, Zabdy Elizabeth         |
+| De La Cruz Orozco, Marcos Gerardo  | Núñez Favela, José Andrés          | Gálvez Miranda, Uma Paola          |
+| Blanchet Ramírez, Bernardo         | De La Cruz Orozco, Marcos Gerardo  | Núñez Favela, José Andrés          |
+| Barba Mendoza, Paulina             | Blanchet Ramírez, Bernardo         | De La Cruz Orozco, Marcos Gerardo  |
+| Mendoza Guajardo, Daniel           | Barba Mendoza, Paulina             | Blanchet Ramírez, Bernardo         |
+| García González, Misael            | Mendoza Guajardo, Daniel           | Barba Mendoza, Paulina             |
+| Castiello Gonzalez, Rodrigo        | García González, Misael            | Mendoza Guajardo, Daniel           |
+| Ochoa Garciarce, Myriam            | Castiello Gonzalez, Rodrigo        | García González, Misael            |
+| Gutiérrez Maisterrena, Diego       | Ochoa Garciarce, Myriam            | Castiello Gonzalez, Rodrigo        |
+
+
+::: details
+```sql
+create temporary table s1 (id int primary key auto_increment, full_name varchar(128));
+
+insert into s1 (full_name)
+select full_name
+from students
+where full_name <> 'Santiago Arizti Bonilla'
+order by rand();
+
+select count(id) from s1;
+
+select s1.full_name 'Quiz De', s2.full_name, s3.full_name
+from s1
+join s1 s2 on s1.id - 1 = (s2.id - 1 + 1) % 21
+join s1 s3 on s1.id - 1 = (s3.id - 1 + 2) % 21;
+```
+:::
