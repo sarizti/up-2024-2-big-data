@@ -13,7 +13,7 @@ Class 14
 |  8 | 0220279 | Leos Luna, Zabdy Elizabeth         | Zabdy     |            | Ser invisible       |
 |  9 | 0225118 | Macias Lara, Hector                | Héctor    |            | Viajar en el tiempo |
 | 10 | 0234847 | De La Cruz Orozco, Marcos Gerardo  | Marcos    |            | Superinteligente    |
-| 11 | 0225512 | Mendoza Guajardo, Daniel           | Mendoza   |            |                     |
+| 11 | 0225512 | Mendoza Guajardo, Daniel           | Mendoza   | según él   | Volar               |
 | 12 | 0224260 | Mercado Coello, Alejandro          | Alex      |            | Supervelocidad      |
 | 13 | 0260523 | Núñez Favela, José Andrés          | Andrés    |            | Super fuerza        |
 | 14 | 0225511 | Ochoa Garciarce, Myriam            | Myriam    |            | Leer mentes         |

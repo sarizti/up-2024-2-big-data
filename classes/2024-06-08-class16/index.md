@@ -39,14 +39,14 @@ Dinámica
 | Quiz De                            | Alumno 1                           | Alumno 2                           |
 |:-----------------------------------|:-----------------------------------|:-----------------------------------|
 | Mercado Coello, Alejandro          | Gutiérrez Maisterrena, Diego       | Ochoa Garciarce, Myriam            |
-| González Ramos, Natanael           | Mercado Coello, Alejandro          | Gutiérrez Maisterrena, Diego       |
+| González Ramos, Natanael           | Mercado Coello, Alejandro          | Díaz Rizo, Edgar Leonardo          |
 | Sánchez Castillo, Santiago Mariano | González Ramos, Natanael           | Mercado Coello, Alejandro          |
 | Macias Lara, Hector                | Sánchez Castillo, Santiago Mariano | González Ramos, Natanael           |
 | Díaz Rizo, Edgar Leonardo          | Macias Lara, Hector                | Sánchez Castillo, Santiago Mariano |
 | Rodríguez Aquino, Schedar Emilio   | Díaz Rizo, Edgar Leonardo          | Macias Lara, Hector                |
-| Solano Jaime, Eduardo              | Rodríguez Aquino, Schedar Emilio   | Díaz Rizo, Edgar Leonardo          |
+| Solano Jaime, Eduardo              | Rodríguez Aquino, Schedar Emilio   | Gutiérrez Maisterrena, Diego       |
 | González Polit, Jorge Andrés       | Solano Jaime, Eduardo              | Rodríguez Aquino, Schedar Emilio   |
-| Carrillo Contardo, Juan Manuel     | González Polit, Jorge Andrés       | Solano Jaime, Eduardo              |
+| Carrillo Contardo, Juan Manuel     | González Polit, Jorge Andrés       | Castiello Gonzalez, Rodrigo        |
 | García Raya, Daniela               | Carrillo Contardo, Juan Manuel     | González Polit, Jorge Andrés       |
 | Leos Luna, Zabdy Elizabeth         | García Raya, Daniela               | Carrillo Contardo, Juan Manuel     |
 | Gálvez Miranda, Uma Paola          | Leos Luna, Zabdy Elizabeth         | García Raya, Daniela               |
@@ -58,7 +58,7 @@ Dinámica
 | García González, Misael            | Mendoza Guajardo, Daniel           | Barba Mendoza, Paulina             |
 | Castiello Gonzalez, Rodrigo        | García González, Misael            | Mendoza Guajardo, Daniel           |
 | Ochoa Garciarce, Myriam            | Castiello Gonzalez, Rodrigo        | García González, Misael            |
-| Gutiérrez Maisterrena, Diego       | Ochoa Garciarce, Myriam            | Castiello Gonzalez, Rodrigo        |
+| Gutiérrez Maisterrena, Diego       | Ochoa Garciarce, Myriam            | Solano Jaime, Eduardo              |
 
 
 ::: details
